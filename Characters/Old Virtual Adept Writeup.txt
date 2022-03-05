@@ -1,0 +1,58 @@
+Virtual Adept
+Essence: Dynamic
+Nature: Conniver?
+Demeanor: Director?
+
+Attributes:
+	Physical:
+		Strength: 1
+		Dexterity: 3
+		Stamina: 2
+	Social:
+		Charisma: 3 
+		Manipulation: 4
+		Appearance: 1
+	Mental:
+		Perception: 3
+		Intelligence: 4
+		Wits: 3
+
+Abilities:
+	Talents:
+		Alertness: 2
+		Subterfuge: 3
+	Skills:
+		Meditation: 3
+		Research: 3
+		Technology: 3
+	Knowledges:
+		Computer: 5
+		Enigmas: 3
+		Investigation: 2
+		Lore: 2
+		Science: 3
+
+Backgrounds:
+	Avatar: 4
+	Mentor: 4 (Architect of Webway, focusing on Correspondance)
+	Node: 2
+
+Spheres:
+	Correspondence: 3
+	Mind: 3
+
+Arete: 3
+
+Willpower: 5
+
+Experience:
+	18 - 3 (mentor) for Prime 2
+	24 for Arete 4
+	21 - 2 (mentor) for Correspondence 4
+	24 - 2 (mentor) for Mind 4
+	32 for Arete 5
+	5 for Willpower 6
+	18 - 2 (mentor) for Life 2
+
+
+
