@@ -5,6 +5,7 @@ Essence: Dynamic
 Nature: Activist
 Demeanor: Activist
 
+
 Attributes: (7/5/3 above initial free dot)
 	Physical: (3)
 		Strength: 2
@@ -18,6 +19,7 @@ Attributes: (7/5/3 above initial free dot)
 		Perception: 3
 		Intelligence: 3
 		Wits: 4
+
 
 Abilities: (13/9/5, none above 3)
 	Talents: (9)
@@ -38,6 +40,7 @@ Abilities: (13/9/5, none above 3)
 		Computer: 3
 		Investigation: 1
 
+
 Backgrounds: (7)
 	Arcane: 2
 	Avatar: 2
@@ -45,26 +48,40 @@ Backgrounds: (7)
 	Dream/Hypercram: 2
 	Resources: 2
 
-Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+
+Spheres: (6 + 1 for Freebies, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Correspondence (Affinity): 3
 	Entropy: 1
 	Forces: 1
 	Life: 1
 	Matter: 1
 
+
 Arete: 3 (1 + 2 for Freebie points spent)
 Willpower: 5 (5)
 Quintessence: 2 (Avatar rating)
 Paradox: 0 (0)
 
+
 Focus:
 	-A paradigm: Reality is a series of nested information systems. As above, so below. As in the
-	 Digital Web, so in whatever meatspace runs on.
-	TODO: define seven instruments
-	-HUD glasses with integrated sensors. Google Glass-esque.
-	-Controller Glove. Think the NES Power Glove.
-	-Cellphone, usually plugged into the rest of the wearable rig.
-	
+	 Digital Web, so in whatever meatspace runs on. (What M20 Core apparently labels "Everything is
+	 Data".)
+	-A practice: Hypertech.
+	-Instruments:
+		-HUD glasses with integrated sensors. Google Glass-esque.
+		-Controller Glove. Think the NES Power Glove.
+		-Cellphone, usually plugged into the rest of the wearable rig.
+			-This is your personal instrument for your Correspondence affinity.
+		-Sensor and optics package attached to your pistol, connecting to the wearable rig.
+		-A database of techniques and exploits. You've got a copy stored locally on your phone, and
+		 backups in various spots around the web.
+		-EEG sensor net and hardware, connected to the wearable rig.
+			-Pulling your shaggy hair through the sensor net mostly conceals it.
+			-A kind of read-only Brain/Computer Interface, but the rig reacting as fast as you think
+			 still goes a long ways.
+		-The customized software packages running on and uniting the components of the rig.
+
 
 Merits & Flaws:
 	Addiction to Caffeine (1 pt. Physical Flaw):
@@ -91,6 +108,38 @@ Character Description and Background:
 
 Equipment (stuff to start with or obtain):
 	-Heavy Pistol (V20 Core pg. 281, Dmg: 5, Rng. 25, Rate: 3, Cap: 13+1, Conceal J)
+	-Bulky leather jacket, concealing both most of your wearable rig and your gun.
+	-
+
+
+Rotes:
+	-Backdoor (Correspondence 3):
+		-Translating yourself into digital form, you can move through data cables and wireless
+		 devices to another suitable end point.
+	-Sensor package (Correspondence 1, Entropy 1, Forces 1, Life 1, Matter 1):
+		-Employing the wide variety of sensor embedded into your wearable rig, you constantly scan
+		 your surroundings, processing the result and feeding it into your HUD with configurable
+		 filters. It combines vision in exotic frequencies (infrared, ultraviolet, ambient radio,
+		 etc.), audio monitoring for a wider range than human hearing, and basic location information.
+		 It turns all of that into an analysis of everything around you, fed to your HUD, and giving
+		 you information about material composition, about people (gait recognition for mapping a
+		 person to someone previously encountered, voice analysis to estimate stress, etc.), distance
+		 estimations, and even probabilistic projections (projected movements, likely weak spots,
+		 etc.). You even pick up spatial distortions, using it's stereo radio frquency sensors.
+		-All that informatation is managed through configuring filters, letting you toggle whether
+		 you care about what a door is made of or the odds that someone is lying. You have some 
+		 alarms set up to override that and alert you, though, if something obviously _wrong_
+		 suddenly happens (life signs that don't correspond to anything visible, sudden flares of
+		 high energy radio emissions, etc.).
+	-Remote sensing (Correspondence 2, Entropy 1, Forces 1, Life 1, Matter 1):
+		-As above, but for a remote location, employing accessible sensing devices (phones!) to
+		 build a similar picture of that location for you.
+	-Remote sensing overlay (Correspondence 3, Entropy 1, Forces 1, Life 1, Matter 1):
+		-As above, but for a remote location _and overlaying on your perceptions of your surroundings
+		 (and, potentially, on other remote locations you're concurrently sensing).
+	-Targeting package (Entropy 1, Life or Matter 1):
+		-Using your guns digital optics, connected to your wearable rig, you target your shots for
+		 maximum damage. Life or Matter, depending on what your targeting.
 
 
 Advancement:

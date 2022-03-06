@@ -5,6 +5,7 @@ Essence:
 Nature: 
 Demeanor: 
 
+
 Attributes: (7/5/3 above initial free dot)
 	Physical:
 		Strength: 
@@ -19,6 +20,7 @@ Attributes: (7/5/3 above initial free dot)
 		Intelligence: 
 		Wits: 
 
+
 Abilities: (13/9/5, none above 3)
 	Talents:
 		
@@ -27,11 +29,14 @@ Abilities: (13/9/5, none above 3)
 	Knowledges:
 		
 
+
 Backgrounds: (7)
 	
 
+
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	
+
 
 Arete:  (1)
 Willpower:  (5)
@@ -44,16 +49,24 @@ Focus:
 Merits & Flaws:
 	
 
+
 Freebie points: (15)
 	
+
 
 Character Description and Background:
 	-Appearance:
 		-
 	-
 
+
 Equipment (stuff to start with or obtain):
 	
+
+
+Rotes:
+	
+
 
 Advancement:
 	-Tentative schedule:
