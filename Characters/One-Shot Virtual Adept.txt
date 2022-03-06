@@ -1,9 +1,9 @@
-Name: 
-Concept: Agent of change?
+Name: David Rowe
+Concept: Agent of change
 Affiliation: Virtual Adepts
-Essence: 
-Nature: Activist?
-Demeanor: 
+Essence: Dynamic
+Nature: Activist
+Demeanor: Activist
 
 Attributes: (7/5/3 above initial free dot)
 	Physical: (3)
@@ -20,61 +20,50 @@ Attributes: (7/5/3 above initial free dot)
 		Wits: 4
 
 Abilities: (13/9/5, none above 3)
-	Talents:
-		Alertness: 
-		Athletics: 
-		Awareness: 
-		Blatancy (secondary): 
-		Brawl: 
-		Empathy: 
-		Experession: 
-		Leadership: 
-		Search (secondary): 
-		Streetwise: 
-		Subterfuge: 
-	Skills:
-		Crafts: 
-		Drive: 
+	Talents: (9)
+		Alertness: 2
+		Athletics: 1
+		Awareness: 2
+		Empathy: 1
+		Leadership: 1
+		Subterfuge: 2
+	Skills: (13)
+		Drive: 2
 		Firearms: 3
-		Martial Arts: 
-		Meditation: 
-		Research: 
-		Stealth: 
+		Martial Arts: 2
+		Stealth: 3
 		Technology: 3
-	Knowledges:
-		Academic: 
+	Knowledges: (5)
+		Academic: 1
 		Computer: 3
-		Cryptography (secondary): 
-		Enigmas: 
-		Esoterica: 
-		Investigation: 
-		Science: 
+		Investigation: 1
 
 Backgrounds: (7)
-	Arcane: 1
+	Arcane: 2
 	Avatar: 2
 	Contacts: 1
-	Dream/Hypercram: 1
-	Node: ?
-		-Crash room in a datacenter?
+	Dream/Hypercram: 2
 	Resources: 2
-	Wonder: ? Lesley said he mostly didn't want to deal with these, but that a drone would be perfect here.
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
-	Correspondance (Affinity): 3
+	Correspondence (Affinity): 3
 	Entropy: 1
 	Forces: 1
 	Life: 1
 	Matter: 1
-	Mind: 
-	Prime: 
 
-Arete:  (1)
-Willpower:  (5)
-Quintessence:  (Avatar rating)
-Paradox:  (0)
+Arete: 3 (1 + 2 for Freebie points spent)
+Willpower: 5 (5)
+Quintessence: 2 (Avatar rating)
+Paradox: 0 (0)
 
 Focus:
+	-A paradigm: Reality is a series of nested information systems. As above, so below. As in the
+	 Digital Web, so in whatever meatspace runs on.
+	TODO: define seven instruments
+	-HUD glasses with integrated sensors. Google Glass-esque.
+	-Controller Glove. Think the NES Power Glove.
+	-Cellphone, usually plugged into the rest of the wearable rig.
 	
 
 Merits & Flaws:
@@ -85,20 +74,24 @@ Merits & Flaws:
 		 of probability.
 		 -A result, perhaps, of your own actions, as you seize opportunities that probability offers
 		  you, causing improbable ripples to spread in your wake.
-	
+
 
 Freebie points: (15 + 2 for Flaws)
 	7	Spheres at 7 per? You've already overspent there.
 	8	Arete 2 & 3
-	2 more
+	1	Arcane 2
+	1	Dream/Hypercram 2
+
 
 Character Description and Background:
 	-Appearance:
 		-
 	-
 
+
 Equipment (stuff to start with or obtain):
-	
+	-Heavy Pistol (V20 Core pg. 281, Dmg: 5, Rng. 25, Rate: 3, Cap: 13+1, Conceal J)
+
 
 Advancement:
 	-Tentative schedule:
