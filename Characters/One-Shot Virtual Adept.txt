@@ -50,7 +50,7 @@ Backgrounds: (7)
 
 
 Spheres: (6 + 1 for Freebies, with one designated your Affinity, none higher than Arete or perm. Willpower)
-	Correspondence (Affinity): 3
+	Data (Affinity): 3 (Data is the technomagick equivalent of Correspondence)
 	Entropy: 1
 	Forces: 1
 	Life: 1
