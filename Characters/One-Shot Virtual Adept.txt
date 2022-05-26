@@ -19,6 +19,7 @@ Attributes: (7/5/3 above initial free dot)
 		Perception: 3
 		Intelligence: 3
 		Wits: 4
+			Specialty: 
 
 
 Abilities: (13/9/5, none above 3)
@@ -89,8 +90,8 @@ Merits & Flaws:
 	Echos (1 pt. Supernatural Flaw):
 		-Increased odds of extreme or chaotic outcomes in your presence, inverting the normal curve
 		 of probability.
-		 -A result, perhaps, of your own actions, as you seize opportunities that probability offers
-		  you, causing improbable ripples to spread in your wake.
+		-A result, perhaps, of your own actions, as you seize opportunities that probability offers
+		 you, causing improbable ripples to spread in your wake.
 
 
 Freebie points: (15 + 2 for Flaws)
