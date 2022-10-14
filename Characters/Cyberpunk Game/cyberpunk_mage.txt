@@ -1,0 +1,101 @@
+Name: 
+Concept: 
+Affiliation: 
+Essence: 
+Nature: 
+Demeanor: 
+Ruleset: M20
+
+Attributes: (7/5/3 above initial free dot)
+	Physical:
+		Strength: 
+		Dexterity: 
+		Stamina: 
+	Social:
+		Charisma: 
+		Manipulation: 
+		Appearance: 
+	Mental:
+		Perception: 
+		Intelligence: 
+		Wits: 
+
+Abilities: (13/9/5, none above 3)
+	Talents:
+		
+	Skills:
+		
+	Knowledges:
+		
+Backgrounds: (7)
+	
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	
+
+Arete:  (1)
+Willpower:  (5)
+Quintessence:  (Avatar rating)
+Paradox:  (0)
+
+Focus:
+	
+
+Merits & Flaws: ( Freebie Points)
+	Addiction (1 or 3 pt. Physical Flaw, Core pg. 646): ?
+		-Caffeine or video games would both fit very well, and be 1 pt. A 3 pt. addiction to
+		 stimulants would also fit pretty well.
+	Blacklisted (1 to 5 pt. Flaw, BoS pg. 51): ?
+		-2 pt. version give the "misdeanor criminal record" example, which might fit past drug
+		 charges or similar.
+	Computer Aptitude (1 pt. Merit, BoS pg. 43): 
+		-Minus 2 difficulty to "computer-based rolls", with some caveats about _limited_
+		 applicability to magick that you didn't totally follow.
+	Concentration (1 pt. Merit, BoS pg. 43): ?
+		-Eliminates modifiers from distractions, maybe with a Willpower roll for _really_ bad ones
+		 like "trying to hack a computer system during a tornado".
+	Curiosity (2 pt. Flaw, BoS pg. 48): ?
+		-Wits roll between difficulty 5 and 9 to avoid following up on mysteries, depending on how
+		 "compelling" they are.
+	Driving Goal (3 pt. Flaw, BoS pg. 51): ?
+		-Taking down the corps would fit this exactly.
+	Hyperfocus (3 pt. Merit, BoS pg. 45): ?
+		-Extra die for every hour spent focusing _without distractions_ on an extended
+		 _not-magick-casting_ roll, up to 3.
+	Echoes (1 to 5 pt. Supernatural Flaw, Core pg. 646): ?
+		-A 1 pt. smell of ozone or similar following you around would be interesting, evoking
+		 electrical problems and also causing the occasional accusation of smoking drugs.
+	Enemy (1 to 5 pt. Social Flaw, Core pg. 647): ?
+		-Low pt. version representing some internet-troll-y rival?
+	Overconfident (1 pt. Flaw, BoS pg. 48): ?
+		-I mean, you pretty much have to be, to take on the corps.
+	Poison Resistance (2 pt. Merit, BoS pg. 37): ?
+		-Flavorful for a slum childhood, and if you go down the route of drug abuse.
+	PTSD (2 to 5 pt. Social Flaw, Core pg. 647): ?
+		-If you go with a childhood defined by poverty, perhaps the 3 pt. version tied to financial
+		 difficulties (an example given in teh book)?
+	Monstrous (3 pt. Physical Flaw, BoS pg. 41): ?
+		-Lesley mentioned the impovrished selling themselves as test subjects. This could be used
+		 to reflect it, or perhaps Impediment?
+	
+	
+	See The Book of Secrets for more of these, and even more Secondary Abilities and other character
+	options.
+
+Freebie points: (15)
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		
