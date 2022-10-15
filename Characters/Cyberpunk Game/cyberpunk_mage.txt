@@ -1,39 +1,86 @@
 Name: 
 Concept: 
 Affiliation: 
-Essence: 
-Nature: 
-Demeanor: 
+Essence: Dynamic
+Nature: Crusader
+Demeanor: Activist
 Ruleset: M20
 
 Attributes: (7/5/3 above initial free dot)
-	Physical:
-		Strength: 
-		Dexterity: 
-		Stamina: 
-	Social:
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (5)
 		Charisma: 
 		Manipulation: 
 		Appearance: 
-	Mental:
+	Mental: (7)
 		Perception: 
 		Intelligence: 
 		Wits: 
 
 Abilities: (13/9/5, none above 3)
-	Talents:
-		
-	Skills:
-		
-	Knowledges:
-		
+	Talents: ()
+		Alertness: 
+		Awareness: ?
+		Brawl: ?
+		High Ritual (Secondary): ??
+		Scrounging (Secondary, BoS pg. 22): 
+		Streetwise: 
+		Subterfuge: 
+	Skills: ()
+		Assessment Analysis (Secondary, BoS pg. 24): 
+		Firearms: 1
+		Hypertech (Secondary):
+		Jury-Rigging (Secondary, BoS pg. 27): 
+		Research: 
+		Security (Secondary, BoS pg. 29): 
+		Stealth: 
+		Technology: 3
+	Knowledges: ()
+		Computer: 
+		Cryptography (Secondary): 
+		Demolitions (Secondary): 
+		Enigmas: 
+		Investigation: 
+		Law: 
+		Pharmacopoeia (Secondary):
+		Politics: 
+		Science: 
+
 Backgrounds: (7)
-	
+	Avatar: 3, to allow the max -3 for spending it when casting? More?
+	Contacts: ?
+		-Folks you leak corpo data to, and can get the occasional info from in return?
+	Destiny: ?
+	Dream/Hypercram: ?
+	Enhancement: ?
+		-I lean away from it, at least at start, to reflect poverty.
+	Fame: ?
+		-Could be a good fit for some past hack that met with great success.
+	Influence: ?
+		-Same idea as Fame, and maybe a better fit.
+	Library: ?
+	Resources: ?
+		-I think I want to rely on the chantry, but finance-PTSD might also demand some backup.
+	Spies: ?
+		-Similar option to Contacts, and maybe preferable for what you have in mind.
+	Status: ?
+		-A dot or two seems like it would represent some small prestige among other Adepts, probably
+		 for similar reasons (respected/noteworthy hack(s)) to Fame or Influence.
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Correspondance (Affinity): At least 2, maybe 3
+	Entropy: At least 2, maybe 3
+	Forces: 1
+	Matter: 1?
+	Mind: 1? 2?
+	
+	Look again at rotes, to inform choices here!
 	
 
-Arete:  (1)
+Arete: 3 (1 + 2 for Freebie Points spent)
 Willpower:  (5)
 Quintessence:  (Avatar rating)
 Paradox:  (0)
@@ -59,14 +106,17 @@ Merits & Flaws: ( Freebie Points)
 		 "compelling" they are.
 	Driving Goal (3 pt. Flaw, BoS pg. 51): ?
 		-Taking down the corps would fit this exactly.
-	Hyperfocus (3 pt. Merit, BoS pg. 45): ?
-		-Extra die for every hour spent focusing _without distractions_ on an extended
-		 _not-magick-casting_ roll, up to 3.
 	Echoes (1 to 5 pt. Supernatural Flaw, Core pg. 646): ?
 		-A 1 pt. smell of ozone or similar following you around would be interesting, evoking
 		 electrical problems and also causing the occasional accusation of smoking drugs.
 	Enemy (1 to 5 pt. Social Flaw, Core pg. 647): ?
 		-Low pt. version representing some internet-troll-y rival?
+	Hatred (3 pt. Flaw, BoS pg. 52): ?
+		-You definitely do hate the corps, but the Willpower roll involved in this particular flaw
+		 might be rather rough with something so ubiquitous.
+	Hyperfocus (3 pt. Merit, BoS pg. 45): ?
+		-Extra die for every hour spent focusing _without distractions_ on an extended
+		 _not-magick-casting_ roll, up to 3.
 	Overconfident (1 pt. Flaw, BoS pg. 48): ?
 		-I mean, you pretty much have to be, to take on the corps.
 	Poison Resistance (2 pt. Merit, BoS pg. 37): ?
@@ -77,12 +127,10 @@ Merits & Flaws: ( Freebie Points)
 	Monstrous (3 pt. Physical Flaw, BoS pg. 41): ?
 		-Lesley mentioned the impovrished selling themselves as test subjects. This could be used
 		 to reflect it, or perhaps Impediment?
-	
-	
-	See The Book of Secrets for more of these, and even more Secondary Abilities and other character
-	options.
 
 Freebie points: (15)
+	4	Arete 2
+	4	Arete 3
 	
 
 Character Description and Background:

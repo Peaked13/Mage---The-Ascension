@@ -7,15 +7,15 @@ Demeanor:
 Ruleset: 
 
 Attributes: (7/5/3 above initial free dot)
-	Physical:
+	Physical: ()
 		Strength: 
 		Dexterity: 
 		Stamina: 
-	Social:
+	Social: ()
 		Charisma: 
 		Manipulation: 
 		Appearance: 
-	Mental:
+	Mental: ()
 		Perception: 
 		Intelligence: 
 		Wits: 
@@ -42,7 +42,7 @@ Paradox:  (0)
 Focus:
 	
 
-Merits & Flaws:
+Merits & Flaws: ( Freebie Points)
 	
 
 Freebie points: (15)
