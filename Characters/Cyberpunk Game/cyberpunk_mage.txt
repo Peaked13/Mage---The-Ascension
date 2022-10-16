@@ -1,6 +1,6 @@
 Name: 
-Concept: 
-Affiliation: 
+Concept: Smash the corps!
+Affiliation: Virtual Adepts
 Essence: Dynamic
 Nature: Crusader
 Demeanor: Activist
@@ -12,125 +12,117 @@ Attributes: (7/5/3 above initial free dot)
 		Dexterity: 2
 		Stamina: 2
 	Social: (5)
-		Charisma: 
-		Manipulation: 
-		Appearance: 
+		Charisma: 2
+		Manipulation: 4
+			Specialty: Guile
+		Appearance: 2
 	Mental: (7)
-		Perception: 
-		Intelligence: 
-		Wits: 
+		Perception: 2
+		Intelligence: 5
+			Specialty: Bright
+		Wits: 3
 
 Abilities: (13/9/5, none above 3)
-	Talents: ()
-		Alertness: 
-		Awareness: ?
-		Brawl: ?
-		High Ritual (Secondary): ??
-		Scrounging (Secondary, BoS pg. 22): 
-		Streetwise: 
-		Subterfuge: 
-	Skills: ()
-		Assessment Analysis (Secondary, BoS pg. 24): 
+	Talents: (5)
+		Alertness: 1
+		Awareness: 1
+		Scrounging (Secondary, BoS pg. 22): 1
+		Streetwise: 1
+		Subterfuge: 1
+	Skills: (9)
 		Firearms: 1
-		Hypertech (Secondary):
-		Jury-Rigging (Secondary, BoS pg. 27): 
-		Research: 
-		Security (Secondary, BoS pg. 29): 
-		Stealth: 
+		Hypertech (Secondary): 3
+		Jury-Rigging (Secondary, BoS pg. 27): 1
+		Research: 1
 		Technology: 3
-	Knowledges: ()
-		Computer: 
-		Cryptography (Secondary): 
-		Demolitions (Secondary): 
-		Enigmas: 
-		Investigation: 
-		Law: 
-		Pharmacopoeia (Secondary):
-		Politics: 
-		Science: 
+	Knowledges: (13)
+		Computer: 3
+		Cryptography (Secondary): 1
+		Demolitions (Secondary): 1
+		Investigation: 1
+		Law: 1
+		Pharmacopoeia (Secondary): 1
+		Politics: 1
+		Science: 1
+		Web Culture: 3
 
 Backgrounds: (7)
 	Avatar: 3, to allow the max -3 for spending it when casting? More?
+	Chantry: 2
+		-You're a member of The Digital Devils, and have access to their clubhouse on the Web.
+		-These two points apparently represent one dot in Chantry: https://discord.com/channels/1029445785118576672/1029445785563172895/1031043670444621834
+		-See Roll20 handout for more details.
 	Contacts: ?
 		-Folks you leak corpo data to, and can get the occasional info from in return?
-	Destiny: ?
+		-Journalist?
 	Dream/Hypercram: ?
-	Enhancement: ?
-		-I lean away from it, at least at start, to reflect poverty.
-	Fame: ?
-		-Could be a good fit for some past hack that met with great success.
-	Influence: ?
-		-Same idea as Fame, and maybe a better fit.
-	Library: ?
-	Resources: ?
-		-I think I want to rely on the chantry, but finance-PTSD might also demand some backup.
-	Spies: ?
-		-Similar option to Contacts, and maybe preferable for what you have in mind.
-	Status: ?
-		-A dot or two seems like it would represent some small prestige among other Adepts, probably
-		 for similar reasons (respected/noteworthy hack(s)) to Fame or Influence.
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
-	Correspondance (Affinity): At least 2, maybe 3
-	Entropy: At least 2, maybe 3
-	Forces: 1
-	Matter: 1?
-	Mind: 1? 2?
+	Correspondance (Affinity): 2
+	Entropy: 2
+	Forces: 2
+	Mind: 1
+	Prime: 1
 	
 	Look again at rotes, to inform choices here!
 	
 
 Arete: 3 (1 + 2 for Freebie Points spent)
-Willpower:  (5)
+Willpower: 5 (5)
 Quintessence:  (Avatar rating)
 Paradox:  (0)
 
 Focus:
 	
 
-Merits & Flaws: ( Freebie Points)
-	Addiction (1 or 3 pt. Physical Flaw, Core pg. 646): ?
-		-Caffeine or video games would both fit very well, and be 1 pt. A 3 pt. addiction to
-		 stimulants would also fit pretty well.
-	Blacklisted (1 to 5 pt. Flaw, BoS pg. 51): ?
-		-2 pt. version give the "misdeanor criminal record" example, which might fit past drug
-		 charges or similar.
-	Computer Aptitude (1 pt. Merit, BoS pg. 43): 
+Merits & Flaws: (+6 Freebie Points)
+	Addiction (3 pt. Physical Flaw, Core pg. 646):
+		-You're addicted to stimulents.
+	Computer Aptitude (1 pt. Mental Merit, BoS pg. 43): 
 		-Minus 2 difficulty to "computer-based rolls", with some caveats about _limited_
 		 applicability to magick that you didn't totally follow.
-	Concentration (1 pt. Merit, BoS pg. 43): ?
-		-Eliminates modifiers from distractions, maybe with a Willpower roll for _really_ bad ones
-		 like "trying to hack a computer system during a tornado".
-	Curiosity (2 pt. Flaw, BoS pg. 48): ?
-		-Wits roll between difficulty 5 and 9 to avoid following up on mysteries, depending on how
-		 "compelling" they are.
-	Driving Goal (3 pt. Flaw, BoS pg. 51): ?
+	Driving Goal (3 pt. Mental Flaw, BoS pg. 51): ?
 		-Taking down the corps would fit this exactly.
-	Echoes (1 to 5 pt. Supernatural Flaw, Core pg. 646): ?
-		-A 1 pt. smell of ozone or similar following you around would be interesting, evoking
-		 electrical problems and also causing the occasional accusation of smoking drugs.
-	Enemy (1 to 5 pt. Social Flaw, Core pg. 647): ?
-		-Low pt. version representing some internet-troll-y rival?
-	Hatred (3 pt. Flaw, BoS pg. 52): ?
-		-You definitely do hate the corps, but the Willpower roll involved in this particular flaw
-		 might be rather rough with something so ubiquitous.
-	Hyperfocus (3 pt. Merit, BoS pg. 45): ?
-		-Extra die for every hour spent focusing _without distractions_ on an extended
-		 _not-magick-casting_ roll, up to 3.
-	Overconfident (1 pt. Flaw, BoS pg. 48): ?
+	Overconfident (1 pt. Mental Flaw, BoS pg. 48): ?
 		-I mean, you pretty much have to be, to take on the corps.
-	Poison Resistance (2 pt. Merit, BoS pg. 37): ?
-		-Flavorful for a slum childhood, and if you go down the route of drug abuse.
-	PTSD (2 to 5 pt. Social Flaw, Core pg. 647): ?
-		-If you go with a childhood defined by poverty, perhaps the 3 pt. version tied to financial
-		 difficulties (an example given in teh book)?
-	Monstrous (3 pt. Physical Flaw, BoS pg. 41): ?
-		-Lesley mentioned the impovrished selling themselves as test subjects. This could be used
-		 to reflect it, or perhaps Impediment?
 
-Freebie points: (15)
+	Potential others:
+		Blacklisted (1 to 5 pt. Flaw, BoS pg. 51): ?
+			-2 pt. version give the "misdeanor criminal record" example, which might fit past drug
+			 charges or similar..
+		Concentration (1 pt. Merit, BoS pg. 43): ?
+			-Eliminates modifiers from distractions, maybe with a Willpower roll for _really_ bad ones
+			 like "trying to hack a computer system during a tornado".
+		Curiosity (2 pt. Flaw, BoS pg. 48): ?
+			-Wits roll between difficulty 5 and 9 to avoid following up on mysteries, depending on how
+			 "compelling" they are.
+		Echoes (1 to 5 pt. Supernatural Flaw, Core pg. 646): ?
+			-A 1 pt. smell of ozone or similar following you around would be interesting, evoking
+			 electrical problems and also causing the occasional accusation of smoking drugs.
+		Enemy (1 to 5 pt. Social Flaw, Core pg. 647): ?
+			-Low pt. version representing some internet-troll-y rival?
+		Hatred (3 pt. Flaw, BoS pg. 52): ?
+			-You definitely do hate the corps, but the Willpower roll involved in this particular flaw
+			 might be rather rough with something so ubiquitous.
+		Hyperfocus (3 pt. Merit, BoS pg. 45): ?
+			-Extra die for every hour spent focusing _without distractions_ on an extended
+			 _not-magick-casting_ roll, up to 3.
+		Poison Resistance (2 pt. Merit, BoS pg. 37): ?
+			-Flavorful for a slum childhood, and if you go down the route of drug abuse.
+		PTSD (2 to 5 pt. Social Flaw, Core pg. 647): ?
+			-If you go with a childhood defined by poverty, perhaps the 3 pt. version tied to financial
+			 difficulties (an example given in teh book)?
+		Monstrous (3 pt. Physical Flaw, BoS pg. 41): ?
+			-Lesley mentioned the impovrished selling themselves as test subjects. This could be used
+			 to reflect it, or perhaps Impediment?
+
+Freebie points: 21 (15 + 6 for Merits & Flaws)
 	4	Arete 2
 	4	Arete 3
+	7	Mind 1
+	7	Prime 1
+	
+	-1 Freebies remaining!
 	
 
 Character Description and Background:
@@ -142,7 +134,49 @@ Equipment (stuff to start with or obtain):
 	
 
 Rotes:
+	1-800-QUINTESSENCE (Corr. 2, Prime 1) [Online]: TODO: Get approval; found online.
+		-This rote was invented by Virtual Adepts having problems getting quintessence when they were far from their nodes. However, by using the ordinary phone network or Internet to call a computer or phone near their home node, the Adepts can connect to it and absorb needed quintessence. This rote has been expanded to higher levels, using the networks as conduits for quintessence to their uses.
+	Arc (Correspondence 2, Forces 2) [Roll20 Digital Web Rotes Handout]:
+		-One of the most basic Cyberpunk rotes, Arc allows an Adept to pull an electrical discharge from any nearby power source. This lightning bolt then arcs around the room hitting everything within a broad category set by the caster (for example, all machines in the room, all people, all plants, etc.)
+		-System: The Adept uses Correspondence to target, and then unleashes an attack with Forces. She has a chance to hit every target within visual range, up to an amount equal to her Wits + Shoot rating, even if one or more targets are hidden or behind cover. Damage is based on the power source the Adept is drawing from, inflicting harm as per the electrocution rules (pg. 248 of the Mage rulebook.) The damage only lasts a single turn, and will not affect grounded targets
+	Brain Boost (Mind 3 or 5) [Roll20 Digital Web Rotes Handout]: TODO: M20 rulebooks suggests this should only be a Mind 1 effect?
+		-Some Cybernauts will not be bound by their own limitations; imbibing smart drinks, hyperstimulants or experimental drugs, they jack their mental processes to unusual levels. Although VAs are infamous for their enthusiastic approach to stimulants, the real "boosters" include Etherites, It Xers and Warzone fanatics (who obsess over "ripped" icons and virtual strength). Boosting's downside is harsh; many longtime users go totally bonzo or fry their skulls from the inside out.
+		-This procedure works like Better Body for the mind, increasing Mental Traits as the Life variant raises Physical ones. Mind 3 can raise those Traits to a maximum of 5; elevating them beyond human range requires Mind 5. Neither shift is permanent. A spinner who Boosts herself more than twice a week is asking for trouble — insanity, hallucinations, hemorrhages, even Quiet — that an imaginative Storyteller will be happy to provide. . .
+	Remote Access (Correspondence 2, Forces 2) [Roll20 Digital Web Rotes Handout]:
+		-A simple but useful procedure, Access allows a spinner to tap into a network from some distance away. Sending a scanning wave through conduits until it reaches the proper place, the magus keys into the conduit and follows it either to its source in the Web, or to a computer that's hooked up to the area's reflection. Once he reaches that link, the Webspinner can see into that area (or through an active computer monitor), and possibly send a new rote through space and run it from a distance.
+		-Correspondence sets up the link as per the usual Correspondence Ranges chart; Forces allows the mage to send or receive images between the remote location and his rig. Restricted Sectors or Constraint Realms are more difficult to access than normal sectors (six successes or so, as opposed to two or three). Viewing a distant place from a monitor or video camera does not grant the seer omniscient vision — anything that's too dark, indistinct or out of range to see clearly from the screen or lens cannot be seen with this rote.
+	Search Engine (Correspondence 2, Entropy 1, Prime 1) [Roll20 Digital Web Rotes Handout]:
+		-Also known as "Telephone," use this rote when you are looking for a Hacker or a Kibo to fit your needs. It either puts you in touch with someone who matches your request or someone who knows them. It should be noted that you can't find a specific person with this rote (though more advanced versions do exist to perform that function,) just people who fit a general need.
+		-Correspondence is used to cast a wide net to search for your target. Prime is used to locate the target via his or her Essence (see the section on Names, pp. 43-44, for more information on why this is important.) Entropy makes sure that this person fits your needs. Each success gives you a 20% chance of locating the target or someone connected to that person. Be careful with this rote! There have been rare occasions when the best teacher for the situation turned out to be a member of the Technocracy - much to the Adept's (and the Technocrat's) surprise.
+	TechnoVision (Correspondence 1, Entropy 1, Forces 1, Mind 1, Prime 1) [Roll20 Digital Web Rotes Handout]:
+		-By shifting into readout mode, a Technocratic spinner can bring up a window, project an analysis field, and scan her surroundings. In the window, readouts track the area nearby, its inhabitants, their true natures, and their weaknesses.
+		-Sensors invoke Rank One perceptions for the five Spheres mentioned. A Perception + Awareness roll, difficulty 4, usually tells the spinner what she needs to know about surface impressions. Hidden data, such as concealed ID codes or Arcane-cloaked icons, may raise the difficulty accordingly, or subtract from the searcher's Dice Pool.
+		-Variant: Remote Sensing (Correspondence 2, Entropy 1, Forces 1, Mind 1, Prime 1):
+			-As above, but for a remote location, employing accessible sensing devices (phones!) to
+			 build a similar picture of that location for you.
+	Traffic Pulse (Entropy 2, Forces 2) [Roll20 Digital Web Rotes Handout]:
+		-For those who choose to listen to the music of the city, there is an underlying pattern, a rhythm, if you will, to all the rumbling and revving of the engines. With mastery of the Traffic Pulse, a mage can effect the time it takes traffic lights to turn, cause traffic to be heavy or sparse, even direct and prevent minor accidents. For a mage who literally lives on the streets, Traffic Pulse can be a useful magical tool.
+	We'll Get There (Correspondence 1, Entropy 2) [Roll20 Digital Web Rotes Handout]:
+		-This trick is a way to keep from getting lost in the surreal urban landscape that is a Cyberpunk's habitat. Combining a keen sense of direction with a good set of odds, the mage can usually stumble to where she wants to be or needs to be.
+		-As long as the mage has a good idea of where she's going ("I need to get to Tadd's apartment...") a single success is enough to point her in the right direction and keep her on track. More successes clue the mage into short cuts that get her there faster. This rote is coincidental magic; the name of the rote itself is a good enough way to subtly pass off this effect.
+	Where Am I? (Corr. 1) [Online]: TODO: Get approval; found online.
+		-The mage will know his position relative another, known place (like his home or his starting point). When the mage moves away from this place he will still know where it is and feel direction and distance to it.
+	Window Manager (Corr. 2) [Online]: TODO: Get approval; found online.
+		-The Adept opens a window on his screen, showing another place. He can see and hear what is going on there and move his vantage point, zoom in and out, store images and otherwise transform the image. Using virtual reality the mage can even move around in a virtual copy of the place, seeing, hearing and feeling things (but he still cannot interact with the place).
 	
+	Rote ideas:
+		-Anti-sound, via Forces 2?
+		-Some kind of Mind Shield effect with Mind 1?
+		-What's required to "absorb Quintessence beyond their Avatar Background", as Prime 1
+		 describes? A rote? Or is it automatic somehow?
+		-More Entropy rotes!
+			-Find flaws in software?
+			-Some Ring of Truth effect?
+			-Odds calculation?
+			-Targeting software?
+				-Ah, probably needs Life or Matter 1.
+			-Decryption?
+		-Lesley mentioned a hacking enhancing rote via voice?
 
 Advancement:
 	-Tentative schedule:

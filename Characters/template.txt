@@ -21,11 +21,11 @@ Attributes: (7/5/3 above initial free dot)
 		Wits: 
 
 Abilities: (13/9/5, none above 3)
-	Talents:
+	Talents: ()
 		
-	Skills:
+	Skills: ()
 		
-	Knowledges:
+	Knowledges: ()
 		
 
 Backgrounds: (7)
@@ -45,7 +45,7 @@ Focus:
 Merits & Flaws: ( Freebie Points)
 	
 
-Freebie points: (15)
+Freebie points:  (15 +  for Merits & Flaws)
 	
 
 Character Description and Background:
