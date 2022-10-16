@@ -173,6 +173,16 @@ Rotes:
 	
 	Rote ideas:
 		-Anti-sound, via Forces 2?
+			Noise Cancellation (Forces 2): TODO: Get approval; custom.
+				-Using an available speaker-and-microphone equipped computer (like your wearable
+				 rig), cancel out sound in an area by emitting a sound wave of the same amplitude
+				 but with inverted phase.
+				-Perhaps successes control area affected, or maybe the penalty on detecting sound
+				 affected by the rote?
+				-As an upgrade, any Virtual Adept worth their silicon can add Correspondence 2 to
+				 affect a remote area.
+					-TODO: Should that actually be Correspondence 3, since it's an effect, not a
+					 sense, being done remotely?
 		-Some kind of Mind Shield effect with Mind 1?
 		-What's required to "absorb Quintessence beyond their Avatar Background", as Prime 1
 		 describes? A rote? Or is it automatic somehow?
