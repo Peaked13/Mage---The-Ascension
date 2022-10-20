@@ -78,12 +78,24 @@ Focus:
 	-A practice: Hypertech
 	-Instruments:
 		-Computers (of course!)
-			-Including a wearable rig comprised of a Google Glass-esque HUD with integrated sensors,
-			 a cellphone, and several control peripherals that you wear when out and about. 
+			-Including a wearable rig comprised of a Google Glass-esque HUD with integrated sensors
+			 and several control peripherals that you wear when out and about. 
+		-A heavily customized cellphone, usually connected to the rest of the wearable rig or
+		 whatever other computer you're using.
+			-This is your personal instrument for your Correspondence affinity.
+			-For a lot of your childhood, this phone (or at least what it descended from, several
+			 iterations of customization earlier) _was_ your connection to a wider, digital world.
 		-Your heavily customized suite of software packages.
 		-A database of techniques and exploits. You've got a copy stored locally on your phone, and
 		 backups in various spots around the web.
-		-ADD MORE, TO GET TO 7!
+		-EEG sensor net and hardware, connecting to either the wearable rig or other computers.
+			-Pulling your shaggy hair through the sensor net mostly conceals it.
+			-A kind of read-only Brain/Computer Interface, but the rig reacting as fast as you think
+			 still goes a long ways.
+		-Controller Glove. Think the NES Power Glove.
+		-Sensor and optics packages.
+			-You keep a selection of these customized devices on hand, including several on your
+			 person when out and one version connected to your pistol.
 
 Merits & Flaws: (+6 Freebie Points)
 	Addiction (3 pt. Physical Flaw, Core pg. 646):
@@ -137,11 +149,14 @@ Freebie points: 21 (15 + 6 for Merits & Flaws)
 
 Character Description and Background:
 	-Appearance:
+		-Possible character art source, SJ Games's Hacker box art: http://www.sjgames.com/hacker/img/deluxe_hacker_lg.jpg
 		-
 	-
 
 Equipment (stuff to start with or obtain):
-	
+	-Glock 31 (Roll20, Heavy Pistol, Dmg: 5, Rng. 30, Rate: 3, Cap: 15, Conceal J)
+	-Bulky leather jacket, concealing both most of your wearable rig and your gun.
+	-
 
 Rotes:
 	1-800-QUINTESSENCE (Corr. 2, Prime 1) [Online]: TODO: Get approval; found online.
