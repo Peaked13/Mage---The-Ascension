@@ -1,4 +1,4 @@
-Name: 
+Name: David "$INSERT_HANDLE" Rowe
 Concept: Smash the corps!
 Affiliation: Virtual Adepts
 Essence: Dynamic
@@ -53,10 +53,17 @@ Backgrounds: (7)
 		-You're a member of The Digital Devils, and have access to their clubhouse on the Web.
 		-These two points apparently represent one dot in Chantry: https://discord.com/channels/1029445785118576672/1029445785563172895/1031043670444621834
 		-See Roll20 handout for more details.
-	Contacts: ?
-		-Folks you leak corpo data to, and can get the occasional info from in return?
-		-Journalist?
-	Dream/Hypercram: ?
+	Contacts: 2
+		-Folks you leak corpo data to, and can get the occasional info from in return.
+		-Journalist:
+			-Girl reporter trope?
+				-When you met, you thought she was into you, the way she listened to your boasting,
+				 but she turned out to be into your _info_, and you've had a productive professional
+				 relationship ever since.
+				-Might up the pathos a bit if your driving goal puts her in danger.
+		-Criminal:
+			-Interested in your leaked info for different reasons than a journalist.
+			-Can also help you score stims, a trait you treasure.
 
 Spheres: (6 + 2 for Freebie Points spent, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Correspondance (Affinity): 2
@@ -97,62 +104,39 @@ Focus:
 			-You keep a selection of these customized devices on hand, including several on your
 			 person when out and one version connected to your pistol.
 
-Merits & Flaws: (+6 Freebie Points)
+Merits & Flaws: (+7 Freebie Points)
 	Addiction (3 pt. Physical Flaw, Core pg. 646):
 		-You're addicted to stimulents.
 	Computer Aptitude (1 pt. Mental Merit, BoS pg. 43): 
 		-Minus 2 difficulty to "computer-based rolls", with some caveats about _limited_
-		 applicability to magick that you didn't totally follow.
+		 applicability to magick that you didn't entirely follow.
 	Driving Goal (3 pt. Mental Flaw, BoS pg. 51):
 		-Taking down the corps would fit this exactly.
+	Enemy (1 pt. Social Flaw, Core pg. 647):
+		-You have an internet-troll-y rival. Quick to respond to your every post, nothing you do is
+		 ever good or pure enough in their eyes, and they're quick to highlight your every mistake.
+		-TODO: Flesh this enemy out a bit further, unless Lesley wants you to leave that to him.
 	Overconfident (1 pt. Mental Flaw, BoS pg. 48):
 		-I mean, you pretty much have to be, to take on the corps.
 
-	Potential others:
-		Blacklisted (1 to 5 pt. Flaw, BoS pg. 51): ?
-			-2 pt. version give the "misdeanor criminal record" example, which might fit past drug
-			 charges or similar.
-		Concentration (1 pt. Merit, BoS pg. 43): ?
-			-Eliminates modifiers from distractions, maybe with a Willpower roll for _really_ bad ones
-			 like "trying to hack a computer system during a tornado".
-		Curiosity (2 pt. Flaw, BoS pg. 48): ?
-			-Wits roll between difficulty 5 and 9 to avoid following up on mysteries, depending on how
-			 "compelling" they are.
-		Echoes (1 to 5 pt. Supernatural Flaw, Core pg. 646): ?
-			-A 1 pt. smell of ozone or similar following you around would be interesting, evoking
-			 electrical problems and also causing the occasional accusation of smoking drugs.
-		Enemy (1 to 5 pt. Social Flaw, Core pg. 647): ?
-			-Low pt. version representing some internet-troll-y rival?
-		Hatred (3 pt. Flaw, BoS pg. 52): ?
-			-You definitely do hate the corps, but the Willpower roll involved in this particular flaw
-			 might be rather rough with something so ubiquitous.
-		Hyperfocus (3 pt. Merit, BoS pg. 45): ?
-			-Extra die for every hour spent focusing _without distractions_ on an extended
-			 _not-magick-casting_ roll, up to 3.
-		Poison Resistance (2 pt. Merit, BoS pg. 37): ?
-			-Flavorful for a slum childhood, and if you go down the route of drug abuse.
-		PTSD (2 to 5 pt. Social Flaw, Core pg. 647): ?
-			-If you go with a childhood defined by poverty, perhaps the 3 pt. version tied to financial
-			 difficulties (an example given in the book)?
-		Monstrous (3 pt. Physical Flaw, BoS pg. 41): ?
-			-Lesley mentioned the impovrished selling themselves as test subjects. This could be used
-			 to reflect it, or perhaps Impediment?
-
-Freebie points: 21 (15 + 6 for Merits & Flaws)
+Freebie points: 21 (15 + 7 for Merits & Flaws)
 	4	Arete 2
 	4	Arete 3
 	7	Mind 1
 	7	Prime 1
-	
-	-1 Freebies remaining!
-		-TODO: Lesley signed off on going up to _exactly_ 8 pts. of Flaws, no further. Apply one!
-	
 
 Character Description and Background:
 	-Appearance:
-		-Possible character art source, SJ Games's Hacker box art: http://www.sjgames.com/hacker/img/deluxe_hacker_lg.jpg
+		-Character art is the SJ Games's Hacker box art.
 		-
-	-
+	-Impoverished slum childhood, the child of formerly middle class parents devastated by the
+	 automation-driven labor shocks.
+		-You blame the corps.
+		-Dead mother.
+			-You also blame corps.
+		-Father slid into the Red Network blackhole, even works off and on as a paid troll for a
+		 subsidiary.
+			-Yep, you blame corps. NikNak in this case.
 
 Equipment (stuff to start with or obtain):
 	-Glock 31 (Roll20, Heavy Pistol, Dmg: 5, Rng. 30, Rate: 3, Cap: 15, Conceal J)
