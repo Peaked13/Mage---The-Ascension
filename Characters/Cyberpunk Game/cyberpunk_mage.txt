@@ -48,6 +48,7 @@ Abilities: (13/9/5, none above 3)
 
 Backgrounds: (7)
 	Avatar: 3, to allow the max -3 for spending it when casting? More?
+		-Descriptive stuff? Is it a "ghost in the machine"?
 	Chantry: 2
 		-You're a member of The Digital Devils, and have access to their clubhouse on the Web.
 		-These two points apparently represent one dot in Chantry: https://discord.com/channels/1029445785118576672/1029445785563172895/1031043670444621834
@@ -90,9 +91,9 @@ Merits & Flaws: (+6 Freebie Points)
 	Computer Aptitude (1 pt. Mental Merit, BoS pg. 43): 
 		-Minus 2 difficulty to "computer-based rolls", with some caveats about _limited_
 		 applicability to magick that you didn't totally follow.
-	Driving Goal (3 pt. Mental Flaw, BoS pg. 51): ?
+	Driving Goal (3 pt. Mental Flaw, BoS pg. 51):
 		-Taking down the corps would fit this exactly.
-	Overconfident (1 pt. Mental Flaw, BoS pg. 48): ?
+	Overconfident (1 pt. Mental Flaw, BoS pg. 48):
 		-I mean, you pretty much have to be, to take on the corps.
 
 	Potential others:
@@ -183,7 +184,14 @@ Rotes:
 				 affect a remote area.
 					-TODO: Should that actually be Correspondence 3, since it's an effect, not a
 					 sense, being done remotely?
+						-Well, 2 _does_ allow the "Reach Through Space" effect, and allow the Arc
+						 rote from Roll20.
 		-Some kind of Mind Shield effect with Mind 1?
+			-Maybe mixing Entropy in there, for something involving probability?
+				-You have Entropy 2, which allows _controlling_ probability.
+				-Potential flavor:
+					-"A novel application of Bayesian spam-filtering algorithms. . ."
+					-". . . crowd-sourced database of recorded mental intrusion attempts. . ."
 		-What's required to "absorb Quintessence beyond their Avatar Background", as Prime 1
 		 describes? A rote? Or is it automatic somehow?
 		-More Entropy rotes!
@@ -194,6 +202,9 @@ Rotes:
 				-Ah, probably needs Life or Matter 1.
 			-Decryption?
 		-Lesley mentioned a hacking enhancing rote via voice?
+		-Oh! What about the extra levels available for some Spheres while in the Digital Web?
+			-"Characters with Correspondence, Forces or Prime can use those Spheres at one level
+			  higher than their normal rating, up to a maximum of 5."
 
 Advancement:
 	-Tentative schedule:
