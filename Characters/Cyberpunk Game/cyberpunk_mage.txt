@@ -133,7 +133,7 @@ Merits & Flaws: (+6 Freebie Points)
 			-Flavorful for a slum childhood, and if you go down the route of drug abuse.
 		PTSD (2 to 5 pt. Social Flaw, Core pg. 647): ?
 			-If you go with a childhood defined by poverty, perhaps the 3 pt. version tied to financial
-			 difficulties (an example given in teh book)?
+			 difficulties (an example given in the book)?
 		Monstrous (3 pt. Physical Flaw, BoS pg. 41): ?
 			-Lesley mentioned the impovrished selling themselves as test subjects. This could be used
 			 to reflect it, or perhaps Impediment?
@@ -145,6 +145,7 @@ Freebie points: 21 (15 + 6 for Merits & Flaws)
 	7	Prime 1
 	
 	-1 Freebies remaining!
+		-TODO: Lesley signed off on going up to _exactly_ 8 pts. of Flaws, no further. Apply one!
 	
 
 Character Description and Background:
@@ -159,14 +160,25 @@ Equipment (stuff to start with or obtain):
 	-
 
 Rotes:
-	1-800-QUINTESSENCE (Corr. 2, Prime 1) [Online]: TODO: Get approval; found online.
+	1-800-QUINTESSENCE (Corr. 2, Prime 2) [Online, but modified & approved]:
 		-This rote was invented by Virtual Adepts having problems getting quintessence when they were far from their nodes. However, by using the ordinary phone network or Internet to call a computer or phone near their home node, the Adepts can connect to it and absorb needed quintessence. This rote has been expanded to higher levels, using the networks as conduits for quintessence to their uses.
+		-Lesley said this should require Prime 2.
 	Arc (Correspondence 2, Forces 2) [Roll20 Digital Web Rotes Handout]:
 		-One of the most basic Cyberpunk rotes, Arc allows an Adept to pull an electrical discharge from any nearby power source. This lightning bolt then arcs around the room hitting everything within a broad category set by the caster (for example, all machines in the room, all people, all plants, etc.)
 		-System: The Adept uses Correspondence to target, and then unleashes an attack with Forces. She has a chance to hit every target within visual range, up to an amount equal to her Wits + Shoot rating, even if one or more targets are hidden or behind cover. Damage is based on the power source the Adept is drawing from, inflicting harm as per the electrocution rules (pg. 248 of the Mage rulebook.) The damage only lasts a single turn, and will not affect grounded targets
-	Brain Boost (Mind 3 or 5) [Roll20 Digital Web Rotes Handout]: TODO: M20 rulebooks suggests this should only be a Mind 1 effect?
-		-Some Cybernauts will not be bound by their own limitations; imbibing smart drinks, hyperstimulants or experimental drugs, they jack their mental processes to unusual levels. Although VAs are infamous for their enthusiastic approach to stimulants, the real "boosters" include Etherites, It Xers and Warzone fanatics (who obsess over "ripped" icons and virtual strength). Boosting's downside is harsh; many longtime users go totally bonzo or fry their skulls from the inside out.
-		-This procedure works like Better Body for the mind, increasing Mental Traits as the Life variant raises Physical ones. Mind 3 can raise those Traits to a maximum of 5; elevating them beyond human range requires Mind 5. Neither shift is permanent. A spinner who Boosts herself more than twice a week is asking for trouble — insanity, hallucinations, hemorrhages, even Quiet — that an imaginative Storyteller will be happy to provide. . .
+	Noise Cancellation (Forces 2) [Custom, approved]:
+		-Using an available speaker-and-microphone equipped computer (like your wearable rig),
+		 cancel out sound in an area by emitting a sound wave of the same amplitude but with
+		 inverted phase.
+		-Perhaps successes control area affected, or maybe the penalty on detecting sound affected
+		 by the rote?
+		-As an upgrade, any Virtual Adept worth their silicon can add Correspondence 2 to affect a
+		 remote area.
+			-TODO: Should that actually be Correspondence 3, since it's an effect, not a
+			 sense, being done remotely?
+				-Well, 2 _does_ allow the "Reach Through Space" effect, and allow the Arc
+				 rote from Roll20, so sounds like 2 should suffice.
+			-Talk to Lesley, and get this variant approved.
 	Remote Access (Correspondence 2, Forces 2) [Roll20 Digital Web Rotes Handout]:
 		-A simple but useful procedure, Access allows a spinner to tap into a network from some distance away. Sending a scanning wave through conduits until it reaches the proper place, the magus keys into the conduit and follows it either to its source in the Web, or to a computer that's hooked up to the area's reflection. Once he reaches that link, the Webspinner can see into that area (or through an active computer monitor), and possibly send a new rote through space and run it from a distance.
 		-Correspondence sets up the link as per the usual Correspondence Ranges chart; Forces allows the mage to send or receive images between the remote location and his rig. Restricted Sectors or Constraint Realms are more difficult to access than normal sectors (six successes or so, as opposed to two or three). Viewing a distant place from a monitor or video camera does not grant the seer omniscient vision — anything that's too dark, indistinct or out of range to see clearly from the screen or lens cannot be seen with this rote.
@@ -184,24 +196,13 @@ Rotes:
 	We'll Get There (Correspondence 1, Entropy 2) [Roll20 Digital Web Rotes Handout]:
 		-This trick is a way to keep from getting lost in the surreal urban landscape that is a Cyberpunk's habitat. Combining a keen sense of direction with a good set of odds, the mage can usually stumble to where she wants to be or needs to be.
 		-As long as the mage has a good idea of where she's going ("I need to get to Tadd's apartment...") a single success is enough to point her in the right direction and keep her on track. More successes clue the mage into short cuts that get her there faster. This rote is coincidental magic; the name of the rote itself is a good enough way to subtly pass off this effect.
-	Where Am I? (Corr. 1) [Online]: TODO: Get approval; found online.
+	Where Am I? (Corr. 1) [Online, approved]:
 		-The mage will know his position relative another, known place (like his home or his starting point). When the mage moves away from this place he will still know where it is and feel direction and distance to it.
 	
 	Rote ideas:
-		-Anti-sound, via Forces 2?
-			Noise Cancellation (Forces 2): TODO: Get approval; custom.
-				-Using an available speaker-and-microphone equipped computer (like your wearable
-				 rig), cancel out sound in an area by emitting a sound wave of the same amplitude
-				 but with inverted phase.
-				-Perhaps successes control area affected, or maybe the penalty on detecting sound
-				 affected by the rote?
-				-As an upgrade, any Virtual Adept worth their silicon can add Correspondence 2 to
-				 affect a remote area.
-					-TODO: Should that actually be Correspondence 3, since it's an effect, not a
-					 sense, being done remotely?
-						-Well, 2 _does_ allow the "Reach Through Space" effect, and allow the Arc
-						 rote from Roll20.
 		-Some kind of Mind Shield effect with Mind 1?
+			-Sounds like it typically means a boost to Willpower rolls to resist stuff, according
+			 to Lesley: https://discord.com/channels/1029445785118576672/1029445785563172895/1032749354974462072
 			-Maybe mixing Entropy in there, for something involving probability?
 				-You have Entropy 2, which allows _controlling_ probability.
 				-Potential flavor:
@@ -209,6 +210,10 @@ Rotes:
 					-". . . crowd-sourced database of recorded mental intrusion attempts. . ."
 		-What's required to "absorb Quintessence beyond their Avatar Background", as Prime 1
 		 describes? A rote? Or is it automatic somehow?
+			-Ah, the description of that in the Prime 1 text was confusing and specified "at least"
+			 one dot in Prime to do this.
+			-According to Lesley, it's Prime 2 to manipulate Quintessence, and 3 to transfer it to
+			 someone else: https://discord.com/channels/1029445785118576672/1029445785563172895/1032749535652491364
 		-More Entropy rotes!
 			-Find flaws in software?
 			-Some Ring of Truth effect?
@@ -220,6 +225,7 @@ Rotes:
 		-Oh! What about the extra levels available for some Spheres while in the Digital Web?
 			-"Characters with Correspondence, Forces or Prime can use those Spheres at one level
 			  higher than their normal rating, up to a maximum of 5."
+			-With that in mind, reskim the Roll20 rotes.
 
 Advancement:
 	-Tentative schedule:
