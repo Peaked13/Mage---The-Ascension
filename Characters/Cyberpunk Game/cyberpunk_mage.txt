@@ -47,8 +47,8 @@ Abilities: (13/9/5, none above 3)
 		Science: 1
 		Web Culture: 3
 
-Backgrounds: (7)
-	Avatar: 3, to allow the max -3 for spending it when casting? More?
+Backgrounds: (7 + 5 for Freebie Points spent)
+	Avatar: 3
 		-Descriptive stuff? Is it a "ghost in the machine"? A chorus of voices online, driving you
 		 forward on your crusade? Is it _playing_ you, like a video game character?
 	Chantry: 2
@@ -66,6 +66,8 @@ Backgrounds: (7)
 		-Criminal:
 			-Interested in your leaked info for different reasons than a journalist.
 			-Can also help you score stims, a trait you treasure.
+	Hypercram: 5
+		-Flavored as a speed-fueled dive into the web?
 
 Spheres: (6 + 2 for Freebie Points spent, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Correspondance (Affinity): 2
@@ -78,7 +80,7 @@ Spheres: (6 + 2 for Freebie Points spent, with one designated your Affinity, non
 	
 
 Arete: 3 (1 + 2 for Freebie Points spent)
-Willpower: 5 (5)
+Willpower: 7 (5 + 2 for Freebie Points spent)
 Quintessence: 3 (Avatar rating)
 Paradox: 0 (0)
 
@@ -128,17 +130,12 @@ Merits & Flaws: (+7 Freebie Points)
 	Overconfident (1 pt. Mental Flaw, BoS pg. 48):
 		-I mean, you pretty much have to be, to take on the corps.
 
-Freebie points: 21 (15 + 7 for Merits & Flaws)
+Freebie points: 22 (15 + 7 for Merits & Flaws)
 	4	Arete 2
 	4	Arete 3
-	7	Mind 1
 	7	Prime 1
-	TODO: Evaluated dropping Mind for Backgrounds and/or Merits?
-		-Hypercram up to 5? It's useful and flavorful both. See pg. TODO
-		-Avatar?
-		-Concentration (1 pt. Merit, BoS pg. 43) or Hyperfocus (3 pt. Merit, BoS pg. 45): are
-		 probably the tempting merits.
-		-Oh! Willpower?
+	5	Hypercram 5
+	2	Willpower 6 & 7
 
 Character Description and Background:
 	-Appearance:
@@ -205,11 +202,10 @@ Rotes:
 	System Crash (•• Correspondence, •• Forces, •• Prime)
 		-What goes up must come down — especially when you're talking about computer networks. This obnoxiously	common procedure allows NWO Operatives and other hacker-magi to dig into linked Sleeper systems from a distance, then wreck them. First, the malefactor locates the Grid Sector that reflects the system she wants to trash. Once keyed in, she sends an electromagnetic pulse into the network, frying it. Although backups and protective programs can shield even Sleeper networks from complete devastation, the Crash makes a handy nuisance prog. Against a mundane network — like a common office system — it can be remarkably effective.
 		-[Correspondence allows the hacker to locate and reach the network, Forces misdirects the electrical currents, and Prime fuels a sudden burst of energy. The procedure itself is almost always coincidental, but sophisticated networks require many successes to crash, and many more to completely erase. Standard office systems are fiendishly easy (one to three successes) to crash, while elaborate or shielded ones like banks, archives or government data banks are far harder (five to 10 successes) to wreck. Military, research and magickal networks are damned difficult to wipe out (10 to 20 successes), but easier (five successes) to disrupt temporarily. Most offices, of course, keep offline backups of all important records.]
-	TechnoVision (Correspondence •, Entropy •, Forces •, Mind •, Prime •) [Roll20 Digital Web Rotes Handout]:
+	TechnoVision (Correspondence •, Entropy •, Forces •, Prime •) [Roll20 Digital Web Rotes Handout]:
 		-By shifting into readout mode, a Technocratic spinner can bring up a window, project an analysis field, and scan her surroundings. In the window, readouts track the area nearby, its inhabitants, their true natures, and their weaknesses.
 		-Sensors invoke Rank One perceptions for the five Spheres mentioned. A Perception + Awareness roll, difficulty 4, usually tells the spinner what she needs to know about surface impressions. Hidden data, such as concealed ID codes or Arcane-cloaked icons, may raise the difficulty accordingly, or subtract from the searcher's Dice Pool.
-			-Mind 1 is seeing "auras", or your technomagik read outs equivalent.
-		-Variant: Remote Sensing (Correspondence 2, Entropy 1, Forces 1, Mind 1, Prime 1):
+		-Variant: Remote Sensing (Correspondence 2, Entropy 1, Forces 1, Prime 1):
 			-As above, but for a remote location, employing accessible sensing devices (phones!) to
 			 build a similar picture of that location for you.
 	Traffic Pulse (Entropy ••, Forces ••) [Roll20 Digital Web Rotes Handout]:
@@ -227,17 +223,6 @@ Rotes:
 		-"Popping" and "Backspacing" rotes, as described on Core pg. 469?
 			-Both would be Correspondance 3 effects, which you can manage in the Web, standard in
 			 every way but good flavor.
-		-Some kind of Mind Shield effect with Mind 1?
-			-Sounds like it typically means a boost to Willpower rolls to resist stuff, according
-			 to Lesley: https://discord.com/channels/1029445785118576672/1029445785563172895/1032749354974462072
-			-Maybe mixing Entropy in there, for something involving probability?
-				-You have Entropy 2, which allows _controlling_ probability.
-				-Potential flavor:
-					-"A novel application of Bayesian spam-filtering algorithms. . ."
-					-". . . crowd-sourced database of recorded mental intrusion attempts. . ."
-			-HDYDT pg. 45 describes "Aura Alteration" as possible with Mind 1 or Prime 2. Add that in?
-				-Perhaps that's our hook for Entropy: Mind 1 and Entropy 1 to shield your mind and
-				 give off an "average" reading for your environment when "scanned".
 		-What's required to "absorb Quintessence beyond their Avatar Background", as Prime 1
 		 describes? A rote? Or is it automatic somehow?
 			-Ah, the description of that in the Prime 1 text was confusing and specified "at least"
@@ -253,6 +238,12 @@ Rotes:
 				-Ah, probably needs Life or Matter 1.
 			-It's inverse, dodging?
 				-Might just be Entropy. . .
+			-What about Stealth?
+				-Appearing "average" for the area in some way?
+				-Affecting your gait? Buzzers or electical stimulus from your wearables to help you
+				 maintain carefully random or average movement patterns?
+				-Mixing Forces in makes it an ECM flavored thing, controling your electronic emissions,
+				 throughing off falsified web "chaff", etc.
 			-Decryption?
 		-Lesley mentioned a hacking enhancing rote via voice?
 			-Entropy is a strong candidate for this sort of thing.
@@ -261,6 +252,19 @@ Rotes:
 			-Forces 3 allows you to "Transmute" forces. EMP bomb, transmuting the force of an
 			 explosion into the necessary electromagnetic pulse?
 				-The Forces 3 text suggests Entropy 3 might also be mixed in to "enhance energies".
+			-Restore Mind • to TechnoVision when you have that sphere.
+				-Mind 1 is seeing "auras", or your technomagik read outs equivalent.
+			-Some kind of Mind Shield effect with Mind 1?
+				-Sounds like it typically means a boost to Willpower rolls to resist stuff, according
+				 to Lesley: https://discord.com/channels/1029445785118576672/1029445785563172895/1032749354974462072
+				-Maybe mixing Entropy in there, for something involving probability?
+					-Combining it with the Entropy stealth rote?
+					-Potential flavor:
+						-"A novel application of Bayesian spam-filtering algorithms. . ."
+						-". . . crowd-sourced database of recorded mental intrusion attempts. . ."
+				-HDYDT pg. 45 describes "Aura Alteration" as possible with Mind 1 or Prime 2. Add that in?
+					-Perhaps that's our hook for Entropy: Mind 1 and Entropy 1 to shield your mind and
+					 give off an "average" reading for your environment when "scanned".
 
 Advancement:
 	-Tentative schedule:
