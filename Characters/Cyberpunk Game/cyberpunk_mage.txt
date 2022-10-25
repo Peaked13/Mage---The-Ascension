@@ -1,4 +1,5 @@
 Name: David "$INSERT_HANDLE" Rowe
+	-INSERT_HANDLE=DoorKnob? "Figured it made a good. . . handle!"
 Concept: Smash the corps!
 Affiliation: Virtual Adepts
 Essence: Dynamic
@@ -48,7 +49,8 @@ Abilities: (13/9/5, none above 3)
 
 Backgrounds: (7)
 	Avatar: 3, to allow the max -3 for spending it when casting? More?
-		-Descriptive stuff? Is it a "ghost in the machine"?
+		-Descriptive stuff? Is it a "ghost in the machine"? A chorus of voices online, driving you
+		 forward on your crusade? Is it _playing_ you, like a video game character?
 	Chantry: 2
 		-You're a member of The Digital Devils, and have access to their clubhouse on the Web.
 		-These two points apparently represent one dot in Chantry: https://discord.com/channels/1029445785118576672/1029445785563172895/1031043670444621834
@@ -67,6 +69,8 @@ Backgrounds: (7)
 
 Spheres: (6 + 2 for Freebie Points spent, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Correspondance (Affinity): 2
+		-Data instead? Core pg. 467 suggests it gets an innate -1 difficulty in the Digital Web,
+		 which might cancel out any downsides. Flavor is certainly good. Research the differences!
 	Entropy: 2
 	Forces: 2
 	Mind: 1
@@ -106,7 +110,9 @@ Focus:
 
 Merits & Flaws: (+7 Freebie Points)
 	Addiction (3 pt. Physical Flaw, Core pg. 646):
-		-You're addicted to stimulents.
+		-You're addicted to stimulants.
+		-First exposure was sampling some your father had, during a bout of employment, since that
+		 tended to come with absurd hours, scheduling, or both.
 	Computer Aptitude (1 pt. Mental Merit, BoS pg. 43): 
 		-Minus 2 difficulty to "computer-based rolls", with some caveats about _limited_
 		 applicability to magick that you didn't entirely follow.
@@ -116,6 +122,9 @@ Merits & Flaws: (+7 Freebie Points)
 		-You have an internet-troll-y rival. Quick to respond to your every post, nothing you do is
 		 ever good or pure enough in their eyes, and they're quick to highlight your every mistake.
 		-TODO: Flesh this enemy out a bit further, unless Lesley wants you to leave that to him.
+			-Hmm. . . this is also a lot like how you might interact with your avatar. Is there some
+			 relation there? Some disident sub-faction of your past lives (or little brother who
+			 occasionally grabs the game controls)?
 	Overconfident (1 pt. Mental Flaw, BoS pg. 48):
 		-I mean, you pretty much have to be, to take on the corps.
 
@@ -124,6 +133,12 @@ Freebie points: 21 (15 + 7 for Merits & Flaws)
 	4	Arete 3
 	7	Mind 1
 	7	Prime 1
+	TODO: Evaluated dropping Mind for Backgrounds and/or Merits?
+		-Hypercram up to 5? It's useful and flavorful both. See pg. TODO
+		-Avatar?
+		-Concentration (1 pt. Merit, BoS pg. 43) or Hyperfocus (3 pt. Merit, BoS pg. 45): are
+		 probably the tempting merits.
+		-Oh! Willpower?
 
 Character Description and Background:
 	-Appearance:
@@ -137,10 +152,17 @@ Character Description and Background:
 		-Father slid into the Red Network blackhole, even works off and on as a paid troll for a
 		 subsidiary.
 			-Yep, you blame corps. NikNak in this case.
+	-Dependent on gang Resources.
+	-Living situation?
+		-Basement of illegal conversion, with roommates above?
+			-Hacker/party vibe, maybe with weird livestreamed angle?
+			-_Definitely_ good locks on your door, with an improvised bar to resist forcing.
 
-Equipment (stuff to start with or obtain):
+Equipment:
 	-Glock 31 (Roll20, Heavy Pistol, Dmg: 5, Rng. 30, Rate: 3, Cap: 15, Conceal J)
+		-Scuffed and duct-taped.
 	-Bulky leather jacket, concealing both most of your wearable rig and your gun.
+	-Some mix of various stimulants, some legal and some not.
 	-
 
 Rotes:
@@ -163,19 +185,17 @@ Rotes:
 	Instant Offline (••• Correspondence, •• Forces) [Roll20 Digital Web Rotes Handout]:
 		-Need to ditch? This procedure lets a spinner dump herself offline immediately. Most VAs and Cybernauts keep this rote hung on their rigs; at the touch of a "panic button," it boots a Sensory or Astral visitor into her meat back home. A Holistic traveler, sadly, is SOL.
 		-[This Effect works in all ways like a soft de-rezzing, but it's self-inflicted. Many Devices, such as the famous "Jump Box," mimic the same Effect.]
-	Noise Cancellation (Forces ••) [Custom, approved]:
+	Noise Cancellation (Corr. •, Forces ••) [Custom, approved]:
 		-Using an available speaker-and-microphone equipped computer (like your wearable rig),
 		 cancel out sound in an area by emitting a sound wave of the same amplitude but with
 		 inverted phase.
-		-Perhaps successes control area affected, or maybe the penalty on detecting sound affected
-		 by the rote?
+		-Correspondence 1 allows _you_ to still hear while it is in effect (your equipment has to
+		 detect the sount to actively cancel it, and can pipe an unmodified feed to you).
+		-DYDT pg. 34 has a system for this. It has successes adding to the difficulty of Perception
+		 rolls, up to "the usual modifier of +3."
+		-Duration, then, is protbably the usual success splitting, using the table on Core pg. 504.
 		-As an upgrade, any Virtual Adept worth their silicon can add Correspondence 2 to affect a
 		 remote area.
-			-TODO: Should that actually be Correspondence 3, since it's an effect, not a
-			 sense, being done remotely?
-				-Well, 2 _does_ allow the "Reach Through Space" effect, and allow the Arc
-				 rote from Roll20, so sounds like 2 should suffice.
-			-Talk to Lesley, and get this variant approved.
 	Remote Access (Correspondence ••, Forces ••) [Roll20 Digital Web Rotes Handout]:
 		-A simple but useful procedure, Access allows a spinner to tap into a network from some distance away. Sending a scanning wave through conduits until it reaches the proper place, the magus keys into the conduit and follows it either to its source in the Web, or to a computer that's hooked up to the area's reflection. Once he reaches that link, the Webspinner can see into that area (or through an active computer monitor), and possibly send a new rote through space and run it from a distance.
 		-Correspondence sets up the link as per the usual Correspondence Ranges chart; Forces allows the mage to send or receive images between the remote location and his rig. Restricted Sectors or Constraint Realms are more difficult to access than normal sectors (six successes or so, as opposed to two or three). Viewing a distant place from a monitor or video camera does not grant the seer omniscient vision — anything that's too dark, indistinct or out of range to see clearly from the screen or lens cannot be seen with this rote.
@@ -188,6 +208,7 @@ Rotes:
 	TechnoVision (Correspondence •, Entropy •, Forces •, Mind •, Prime •) [Roll20 Digital Web Rotes Handout]:
 		-By shifting into readout mode, a Technocratic spinner can bring up a window, project an analysis field, and scan her surroundings. In the window, readouts track the area nearby, its inhabitants, their true natures, and their weaknesses.
 		-Sensors invoke Rank One perceptions for the five Spheres mentioned. A Perception + Awareness roll, difficulty 4, usually tells the spinner what she needs to know about surface impressions. Hidden data, such as concealed ID codes or Arcane-cloaked icons, may raise the difficulty accordingly, or subtract from the searcher's Dice Pool.
+			-Mind 1 is seeing "auras", or your technomagik read outs equivalent.
 		-Variant: Remote Sensing (Correspondence 2, Entropy 1, Forces 1, Mind 1, Prime 1):
 			-As above, but for a remote location, employing accessible sensing devices (phones!) to
 			 build a similar picture of that location for you.
@@ -203,6 +224,9 @@ Rotes:
 		-The mage will know his position relative another, known place (like his home or his starting point). When the mage moves away from this place he will still know where it is and feel direction and distance to it.
 	
 	Rote ideas:
+		-"Popping" and "Backspacing" rotes, as described on Core pg. 469?
+			-Both would be Correspondance 3 effects, which you can manage in the Web, standard in
+			 every way but good flavor.
 		-Some kind of Mind Shield effect with Mind 1?
 			-Sounds like it typically means a boost to Willpower rolls to resist stuff, according
 			 to Lesley: https://discord.com/channels/1029445785118576672/1029445785563172895/1032749354974462072
@@ -211,6 +235,9 @@ Rotes:
 				-Potential flavor:
 					-"A novel application of Bayesian spam-filtering algorithms. . ."
 					-". . . crowd-sourced database of recorded mental intrusion attempts. . ."
+			-HDYDT pg. 45 describes "Aura Alteration" as possible with Mind 1 or Prime 2. Add that in?
+				-Perhaps that's our hook for Entropy: Mind 1 and Entropy 1 to shield your mind and
+				 give off an "average" reading for your environment when "scanned".
 		-What's required to "absorb Quintessence beyond their Avatar Background", as Prime 1
 		 describes? A rote? Or is it automatic somehow?
 			-Ah, the description of that in the Prime 1 text was confusing and specified "at least"
@@ -220,11 +247,20 @@ Rotes:
 		-More Entropy rotes!
 			-Find flaws in software?
 			-Some Ring of Truth effect?
+				-HDYDT pg. 127 details the system in depth.
 			-Odds calculation?
 			-Targeting software?
 				-Ah, probably needs Life or Matter 1.
+			-It's inverse, dodging?
+				-Might just be Entropy. . .
 			-Decryption?
 		-Lesley mentioned a hacking enhancing rote via voice?
+			-Entropy is a strong candidate for this sort of thing.
+			-This has some interesting ideas you could adapt: http://forum.theonyxpath.com/forum/main-category/main-forum/the-classic-world-of-darkness/mage-the-ascension/922788-virtual-adepts-and-actual-hacking
+		-Future ones, when you have more dots:
+			-Forces 3 allows you to "Transmute" forces. EMP bomb, transmuting the force of an
+			 explosion into the necessary electromagnetic pulse?
+				-The Forces 3 text suggests Entropy 3 might also be mixed in to "enhance energies".
 
 Advancement:
 	-Tentative schedule:
