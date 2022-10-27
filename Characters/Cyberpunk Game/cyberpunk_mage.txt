@@ -109,6 +109,9 @@ Focus:
 		-Sensor and optics packages.
 			-You keep a selection of these customized devices on hand, including several on your
 			 person when out and one version connected to your pistol.
+	-Possible future instruments:
+		-Drugs once you pick up dots in Mind, or in Life? Your speed, nootropics, and general
+		 better-living-through-chemistry would very much fit the character, and those spheres.
 
 Merits & Flaws: (+7 Freebie Points)
 	Addiction (3 pt. Physical Flaw, Core pg. 646):
@@ -140,15 +143,27 @@ Freebie points: 22 (15 + 7 for Merits & Flaws)
 Character Description and Background:
 	-Appearance:
 		-Character art is the SJ Games's Hacker box art.
-		-
+		-Icon?
+			-Possibly an angel? You have notes on this in campaign_notes.txt/
 	-Impoverished slum childhood, the child of formerly middle class parents devastated by the
 	 automation-driven labor shocks.
 		-You blame the corps.
 		-Dead mother.
 			-You also blame corps.
+			-Perhaps of cholera? It's vaguely old-time-y, but also a disease of the exact kind of
+			 slums you grew up in. It's pretty reasonable to blame the forces that pushed your
+			 family into that kind of poverty.
 		-Father slid into the Red Network blackhole, even works off and on as a paid troll for a
 		 subsidiary.
 			-Yep, you blame corps. NikNak in this case.
+		-"Gibson said the future is already here, and that it's just not evenly distributed yet.
+		  That's obviously true (_looks around_), but it's more than that. My parents _fell out_
+		  of the future. . ."
+	-Smashing the corps is your reason to be.
+		-It would be hard to believe it's possible, had you not learned anything is possible through
+		 the Web at the same time this goal was forming.
+	-You Awakening?
+		-
 	-Dependent on gang Resources.
 	-Living situation?
 		-Basement of illegal conversion, with roommates above?
