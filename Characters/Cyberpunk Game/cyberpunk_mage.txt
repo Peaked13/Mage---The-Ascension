@@ -107,8 +107,15 @@ Focus:
 			 still goes a long ways.
 		-Controller Glove. Think the NES Power Glove.
 		-Sensor and optics packages.
-			-You keep a selection of these customized devices on hand, including several on your
-			 person when out and one version connected to your pistol.
+			-You keep a selection of these customized devices on hand, most meant for "dropping"
+			 various places, including several kept on your person when out and one version
+			 connected to your pistol.
+	-Sphere-specific instruments:
+		-Small-E entropy sources, for Entropy. You keep several of these connected to your various
+		 devices, mostly based around radio-isotope decay, using them of course for random numbers
+		 for cryptograpy. You also, however, use them for less mundane reasons, like determining
+		 the random seed for the sector of reality you're currently in, or as feedback when
+		 attempting to _influence_ that seed or it's application.
 	-Possible future instruments:
 		-Drugs once you pick up dots in Mind, or in Life? Your speed, nootropics, and general
 		 better-living-through-chemistry would very much fit the character, and those spheres.
@@ -197,7 +204,7 @@ Rotes:
 	Instant Offline (••• Correspondence, •• Forces) [Roll20 Digital Web Rotes Handout]:
 		-Need to ditch? This procedure lets a spinner dump herself offline immediately. Most VAs and Cybernauts keep this rote hung on their rigs; at the touch of a "panic button," it boots a Sensory or Astral visitor into her meat back home. A Holistic traveler, sadly, is SOL.
 		-[This Effect works in all ways like a soft de-rezzing, but it's self-inflicted. Many Devices, such as the famous "Jump Box," mimic the same Effect.]
-	Noise Cancellation (Corr. •, Forces ••) [Custom, approved]:
+	Noise Cancellation (Corr. •, Forces ••) [Original, approved]:
 		-Using an available speaker-and-microphone equipped computer (like your wearable rig),
 		 cancel out sound in an area by emitting a sound wave of the same amplitude but with
 		 inverted phase.
@@ -253,6 +260,7 @@ Rotes:
 				-Ah, probably needs Life or Matter 1.
 			-It's inverse, dodging?
 				-Might just be Entropy. . .
+				-"Random Walk"?
 			-What about Stealth?
 				-Appearing "average" for the area in some way?
 				-Affecting your gait? Buzzers or electical stimulus from your wearables to help you
@@ -263,6 +271,19 @@ Rotes:
 		-Lesley mentioned a hacking enhancing rote via voice?
 			-Entropy is a strong candidate for this sort of thing.
 			-This has some interesting ideas you could adapt: http://forum.theonyxpath.com/forum/main-category/main-forum/the-classic-world-of-darkness/mage-the-ascension/922788-virtual-adepts-and-actual-hacking
+			-How about Jump the Air Gap (Correspondence ••, Forces ••): [Original, TODO: Get approval!]
+				-Using a variety of techniques (Van Eck Phreaking, current induction by radio wave,
+				 repurposing electrical hardware _as_ radio emitters, etc.) and pre-prepared tools
+				 (software-defined radios, suites of software, databases of hardware specs and known
+				 exploits, etc.) you can jump the air gap and attack systems not connected to the
+				 network. More than that, you can jump past defenses, like bypassing network firewall
+				 appliances or skipping system passwords by attacking a drive's firmware directly.
+				-System: Successes can be spent either on the distance of gap you aim to jump (see
+				 the usual Correspondance Sphere Ranges chart on Core pg. 504) or to reduce the
+				 difficulty of a hacking roll by 1 per success (to a max of -3, if I recall
+				 correctly the general rule for influencing ability rolls).
+				-Somewhat similar to the Remote Access rote from Roll20, with the hacking bonus being
+				 the main twist.
 		-Future ones, when you have more dots:
 			-Forces 3 allows you to "Transmute" forces. EMP bomb, transmuting the force of an
 			 explosion into the necessary electromagnetic pulse?
@@ -283,4 +304,9 @@ Rotes:
 
 Advancement:
 	-Tentative schedule:
-		
+		6	Computer 4?
+		24	Arete 4
+		10	Mind 1
+		10	Life 1?
+	-Abilities?
+		-You have tons with one dot in them, and it's 2 XP to get to 2.
