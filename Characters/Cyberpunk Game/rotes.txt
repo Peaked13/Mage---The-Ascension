@@ -1,0 +1,116 @@
+1-800-QUINTESSENCE (Corr. ••, Prime ••) [Online, but modified & approved]:
+	-This rote was invented by Virtual Adepts having problems getting quintessence when they were far from their nodes. However, by using the ordinary phone network or Internet to call a computer or phone near their home node, the Adepts can connect to it and absorb needed quintessence. This rote has been expanded to higher levels, using the networks as conduits for quintessence to their uses.
+	-Lesley said this should require Prime 2.
+Arc (Correspondence ••, Forces ••) [Roll20 Digital Web Rotes Handout]:
+	-One of the most basic Cyberpunk rotes, Arc allows an Adept to pull an electrical discharge from any nearby power source. This lightning bolt then arcs around the room hitting everything within a broad category set by the caster (for example, all machines in the room, all people, all plants, etc.)
+	-System: The Adept uses Correspondence to target, and then unleashes an attack with Forces. She has a chance to hit every target within visual range, up to an amount equal to her Wits + Shoot rating, even if one or more targets are hidden or behind cover. Damage is based on the power source the Adept is drawing from, inflicting harm as per the electrocution rules (pg. 248 of the Mage rulebook.) The damage only lasts a single turn, and will not affect grounded targets
+Brand (the Rawhide Rote) (Entropy ••, Forces ••, Prime ••; sometimes with Time ••••) [Roll20 Digital Web Rotes Handout]:
+	-When a spinner crosses the line, rough justice prevails. Hacking into the offender's icon program, an angry Netizen marks it with this burning seal. Although the Brand causes no pain or discomfort, it remains fresh no matter what form the icon shifts into.
+	-[Forces and Prime set the Brand going, while Entropy locks it into the parameters of the icon program. An advanced version uses Time to make the Brand last until the punishment has run its course; lesser Brands fade when the Effect's duration ends. (See the Damage and Duration chart in Mage.) Most rawhiders take their time (that is, they make extended rolls) to assure that the mark burns for a good while. For other details about branding, see SITE 2.]
+Create Virtual Object/ Create Daemon (Forces •••, Prime ••; sometimes with Mind ••••, Spirit ••••, or both) [Roll20 Digital Web Rotes Handout]:
+	-When a spinner needs a tool, prop or vehicle, he weaves it into being with this common procedure. First, he maps out a diagram of the desired object, setting its specifications, "materials" and appearance. Channeling a surge of energy into the design, he constructs a matrix in the shape of the item, then fills it in and tinkers with it until it meets his approval. Many spinners carry "prefab" designs and run progs in their decks, allowing them to whip up new items in minutes or even seconds. (The more elaborate the structure, the longer it takes to create.)
+	-[At its base level, this procedure builds an inanimate object out of pure energy. Most items are coincidental to make, but really large ones might employ risky amounts of power. Essentially, the rote works like a normal conjuration. (See Mage, p. 187, and the example of Cheshire's laptop on pp. 162-163 and 171.) Since the object needs to be designed from scratch, a really sophisticated item might require several dots in an appropriate Trait. Once made, the item is as "real" as anything else in Netspace; it cannot, however, be taken from the Web. Any "normal" object — a baseball bat, a bike, a tea set, etc. — can be crafted this way, including foci. Talismans and Devices must be built in the usual ways.
+	-[Create Daemon, an advanced version of the prog, allows a spinner to design very basic AIs (FREEKS, Digital Dollz and similar things) or "daemons" (online fetishes that bind a spirit into a virtual object). For every two successes on an Intelligence + Computer roll (difficulty 7), the new creation attains one Power Level. (See "Data Beasts.") Once made, these beings tend to have minds of their own, however. One might be programmed to behave, but things in the Web have a way of taking on their own lives....]
+Digital Disruption (•• Forces, •• Prime; sometimes ••• Entropy) [Roll20 Digital Web Rotes Handout]:
+	-This standard "weapon" comes in two flavors: the "soft boot," and the "hardcore dump," A.K.A. Joshua's Goodbye (often credited to a legendary Thig spinner). Both versions de-rez a rival's icon and knock said rival out of the area. Many spinners favor the non-lethal version, but HIT Marks, assassins and Webbers who mean business go hardcore as a rule.
+	-[Often focused through guns, blades, or even fists, the Disruption dumps the target if its user scores a hit. Although a normal Arete roll is still required to boot the target out, the attacker must first hit that target normally. The "soft boot" activates a soft de-rez, while the "hardcore" inflicts a hard one. This procedure does not work outside the Net.]
+Instant Offline (••• Correspondence, •• Forces) [Roll20 Digital Web Rotes Handout]:
+	-Need to ditch? This procedure lets a spinner dump herself offline immediately. Most VAs and Cybernauts keep this rote hung on their rigs; at the touch of a "panic button," it boots a Sensory or Astral visitor into her meat back home. A Holistic traveler, sadly, is SOL.
+	-[This Effect works in all ways like a soft de-rezzing, but it's self-inflicted. Many Devices, such as the famous "Jump Box," mimic the same Effect.]
+Noise Cancellation (Corr. •, Forces ••) [Original, approved]:
+	-Using an available speaker-and-microphone equipped computer (like your wearable rig),
+	 cancel out sound in an area by emitting a sound wave of the same amplitude but with
+	 inverted phase.
+	-Correspondence 1 allows _you_ to still hear while it is in effect (your equipment has to
+	 detect the sount to actively cancel it, and can pipe an unmodified feed to you).
+	-DYDT pg. 34 has a system for this. It has successes adding to the difficulty of Perception
+	 rolls, up to "the usual modifier of +3."
+	-Duration, then, is protbably the usual success splitting, using the table on Core pg. 504.
+	-As an upgrade, any Virtual Adept worth their silicon can add Correspondence 2 to affect a
+	 remote area.
+Remote Access (Correspondence ••, Forces ••) [Roll20 Digital Web Rotes Handout]:
+	-A simple but useful procedure, Access allows a spinner to tap into a network from some distance away. Sending a scanning wave through conduits until it reaches the proper place, the magus keys into the conduit and follows it either to its source in the Web, or to a computer that's hooked up to the area's reflection. Once he reaches that link, the Webspinner can see into that area (or through an active computer monitor), and possibly send a new rote through space and run it from a distance.
+	-Correspondence sets up the link as per the usual Correspondence Ranges chart; Forces allows the mage to send or receive images between the remote location and his rig. Restricted Sectors or Constraint Realms are more difficult to access than normal sectors (six successes or so, as opposed to two or three). Viewing a distant place from a monitor or video camera does not grant the seer omniscient vision — anything that's too dark, indistinct or out of range to see clearly from the screen or lens cannot be seen with this rote.
+Search Engine (Correspondence ••, Entropy •, Prime •) [Roll20 Digital Web Rotes Handout]:
+	-Also known as "Telephone," use this rote when you are looking for a Hacker or a Kibo to fit your needs. It either puts you in touch with someone who matches your request or someone who knows them. It should be noted that you can't find a specific person with this rote (though more advanced versions do exist to perform that function,) just people who fit a general need.
+	-Correspondence is used to cast a wide net to search for your target. Prime is used to locate the target via his or her Essence (see the section on Names, pp. 43-44, for more information on why this is important.) Entropy makes sure that this person fits your needs. Each success gives you a 20% chance of locating the target or someone connected to that person. Be careful with this rote! There have been rare occasions when the best teacher for the situation turned out to be a member of the Technocracy - much to the Adept's (and the Technocrat's) surprise.
+System Crash (•• Correspondence, •• Forces, •• Prime)
+	-What goes up must come down — especially when you're talking about computer networks. This obnoxiously	common procedure allows NWO Operatives and other hacker-magi to dig into linked Sleeper systems from a distance, then wreck them. First, the malefactor locates the Grid Sector that reflects the system she wants to trash. Once keyed in, she sends an electromagnetic pulse into the network, frying it. Although backups and protective programs can shield even Sleeper networks from complete devastation, the Crash makes a handy nuisance prog. Against a mundane network — like a common office system — it can be remarkably effective.
+	-[Correspondence allows the hacker to locate and reach the network, Forces misdirects the electrical currents, and Prime fuels a sudden burst of energy. The procedure itself is almost always coincidental, but sophisticated networks require many successes to crash, and many more to completely erase. Standard office systems are fiendishly easy (one to three successes) to crash, while elaborate or shielded ones like banks, archives or government data banks are far harder (five to 10 successes) to wreck. Military, research and magickal networks are damned difficult to wipe out (10 to 20 successes), but easier (five successes) to disrupt temporarily. Most offices, of course, keep offline backups of all important records.]
+TechnoVision (Correspondence •, Entropy •, Forces •, Prime •) [Roll20 Digital Web Rotes Handout]:
+	-By shifting into readout mode, a Technocratic spinner can bring up a window, project an analysis field, and scan her surroundings. In the window, readouts track the area nearby, its inhabitants, their true natures, and their weaknesses.
+	-Sensors invoke Rank One perceptions for the five Spheres mentioned. A Perception + Awareness roll, difficulty 4, usually tells the spinner what she needs to know about surface impressions. Hidden data, such as concealed ID codes or Arcane-cloaked icons, may raise the difficulty accordingly, or subtract from the searcher's Dice Pool.
+	-Variant: Remote Sensing (Correspondence 2, Entropy 1, Forces 1, Prime 1):
+		-As above, but for a remote location, employing accessible sensing devices (phones!) to
+		 build a similar picture of that location for you.
+Traffic Pulse (Entropy ••, Forces ••) [Roll20 Digital Web Rotes Handout]:
+	-For those who choose to listen to the music of the city, there is an underlying pattern, a rhythm, if you will, to all the rumbling and revving of the engines. With mastery of the Traffic Pulse, a mage can effect the time it takes traffic lights to turn, cause traffic to be heavy or sparse, even direct and prevent minor accidents. For a mage who literally lives on the streets, Traffic Pulse can be a useful magical tool.
+Webcrawlers (Correspondence •••, Forces •••, Prime ••) [Roll20 Digital Web Rotes Handout]:
+	-This rote enables Nexplorers to create small energy-based, arachnid-like creatures in virtual space that follow very simple commands. Generally, they search out information (or its location) for their creator or protect the mage by weaving a suffocating web of force around an enemy. Dreamspeakers who have seen this rote in action claim that the Nexplorers are luring spirit creatures from another plane into virtual space (there is an alternate version of this rote that uses Spirit instead of Prime, further blurring the question.) The Nexplorers could care less as long as the rote works.
+	-System: On a success, a Webcrawler is created with 3 health and the ability to follow simple commands. Multiple successes create multiple webcrawlers. These last for about a scene and will perform one or two general tasks for their creator: find or protect. A find command will set them loose to locate one piece of information that they will retrieve if possible (this only applies if the information is unguarded and not warded.) Otherwise, they will simply log the location and report it to the creator. A protect command will let them use the Correspondence part of the rote to bar an area from passage. Multiple webcrawlers can use this to "box" an enemy in with webbed strands of pure Correspondence. Victims of this attack can defeat the webcrawlers before they are trapped, use countermagic, or wait until the webcrawlers vanish at the end of the scene.
+We'll Get There (Correspondence •, Entropy ••) [Roll20 Digital Web Rotes Handout]:
+	-This trick is a way to keep from getting lost in the surreal urban landscape that is a Cyberpunk's habitat. Combining a keen sense of direction with a good set of odds, the mage can usually stumble to where she wants to be or needs to be.
+	-As long as the mage has a good idea of where she's going ("I need to get to Tadd's apartment...") a single success is enough to point her in the right direction and keep her on track. More successes clue the mage into short cuts that get her there faster. This rote is coincidental magic; the name of the rote itself is a good enough way to subtly pass off this effect.
+Where Am I? (Corr. •) [Online, approved]:
+	-The mage will know his position relative another, known place (like his home or his starting point). When the mage moves away from this place he will still know where it is and feel direction and distance to it.
+
+Rote ideas:
+	-"Popping" and "Backspacing" rotes, as described on Core pg. 469?
+		-Both would be Correspondance 3 effects, which you can manage in the Web, standard in
+		 every way but good flavor.
+	-What's required to "absorb Quintessence beyond their Avatar Background", as Prime 1
+	 describes? A rote? Or is it automatic somehow?
+		-Ah, the description of that in the Prime 1 text was confusing and specified "at least"
+		 one dot in Prime to do this.
+		-According to Lesley, it's Prime 2 to manipulate Quintessence, and 3 to transfer it to
+		 someone else: https://discord.com/channels/1029445785118576672/1029445785563172895/1032749535652491364
+	-More Entropy rotes!
+		-Find flaws in software?
+		-Some Ring of Truth effect?
+			-HDYDT pg. 127 details the system in depth.
+		-Odds calculation?
+		-Targeting software?
+			-Ah, probably needs Life or Matter 1.
+		-It's inverse, dodging?
+			-Might just be Entropy. . .
+			-"Random Walk"?
+		-What about Stealth?
+			-Appearing "average" for the area in some way?
+			-Affecting your gait? Buzzers or electical stimulus from your wearables to help you
+			 maintain carefully random or average movement patterns?
+			-Mixing Forces in makes it an ECM flavored thing, controling your electronic emissions,
+			 throughing off falsified web "chaff", etc.
+		-Decryption?
+	-Lesley mentioned a hacking enhancing rote via voice?
+		-Entropy is a strong candidate for this sort of thing.
+		-This has some interesting ideas you could adapt: http://forum.theonyxpath.com/forum/main-category/main-forum/the-classic-world-of-darkness/mage-the-ascension/922788-virtual-adepts-and-actual-hacking
+		-How about Jump the Air Gap (Correspondence ••, Forces ••): [Original, TODO: Get approval!]
+			-Using a variety of techniques (Van Eck Phreaking, current induction by radio wave,
+			 repurposing electrical hardware _as_ radio emitters, etc.) and pre-prepared tools
+			 (software-defined radios, suites of software, databases of hardware specs and known
+			 exploits, etc.) you can jump the air gap and attack systems not connected to the
+			 network. More than that, you can jump past defenses, like bypassing network firewall
+			 appliances or skipping system passwords by attacking a drive's firmware directly.
+			-System: Successes can be spent either on the distance of gap you aim to jump (see
+			 the usual Correspondance Sphere Ranges chart on Core pg. 504) or to reduce the
+			 difficulty of a hacking roll by 1 per success (to a max of -3, if I recall
+			 correctly the general rule for influencing ability rolls).
+			-Somewhat similar to the Remote Access rote from Roll20, with the hacking bonus being
+			 the main twist.
+	-Future ones, when you have more dots:
+		-Forces 3 allows you to "Transmute" forces. EMP bomb, transmuting the force of an
+		 explosion into the necessary electromagnetic pulse?
+			-The Forces 3 text suggests Entropy 3 might also be mixed in to "enhance energies".
+		-Restore Mind • to TechnoVision when you have that sphere.
+			-Mind 1 is seeing "auras", or your technomagik read outs equivalent.
+		-Some kind of Mind Shield effect with Mind 1?
+			-Sounds like it typically means a boost to Willpower rolls to resist stuff, according
+			 to Lesley: https://discord.com/channels/1029445785118576672/1029445785563172895/1032749354974462072
+			-Maybe mixing Entropy in there, for something involving probability?
+				-Combining it with the Entropy stealth rote?
+				-Potential flavor:
+					-"A novel application of Bayesian spam-filtering algorithms. . ."
+					-". . . crowd-sourced database of recorded mental intrusion attempts. . ."
+			-HDYDT pg. 45 describes "Aura Alteration" as possible with Mind 1 or Prime 2. Add that in?
+				-Perhaps that's our hook for Entropy: Mind 1 and Entropy 1 to shield your mind and
+				 give off an "average" reading for your environment when "scanned".
