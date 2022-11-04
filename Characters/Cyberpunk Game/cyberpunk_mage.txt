@@ -1,5 +1,5 @@
-Name: David "$INSERT_HANDLE" Rowe
-	-INSERT_HANDLE=DoorKnob? "Figured it made a good. . . handle!"
+Name: David "DoorKnob" Rowe
+	-"DoorKnob? Figured it made a good. . . handle!"
 Concept: Smash the corps!
 Affiliation: Virtual Adepts
 Essence: Dynamic
@@ -51,7 +51,7 @@ Backgrounds: (7 + 5 for Freebie Points spent)
 	Avatar: 3
 		-Descriptive stuff? Is it a "ghost in the machine"? A chorus of voices online, driving you
 		 forward on your crusade? Is it _playing_ you, like a video game character?
-	Chantry: 2
+	Chantry: 1 (2 points spent on this double cost background)
 		-You're a member of The Digital Devils, and have access to their clubhouse on the Web.
 		-These two points apparently represent one dot in Chantry: https://discord.com/channels/1029445785118576672/1029445785563172895/1031043670444621834
 		-See Roll20 handout for more details.
@@ -69,13 +69,21 @@ Backgrounds: (7 + 5 for Freebie Points spent)
 	Hypercram: 5
 		-Flavored as a speed-fueled dive into the web?
 
-Spheres: (6 + 2 for Freebie Points spent, with one designated your Affinity, none higher than Arete or perm. Willpower)
+Spheres: (6 + 1 for Freebie Points spent, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Correspondance (Affinity): 2
 		-Data instead? Core pg. 467 suggests it gets an innate -1 difficulty in the Digital Web,
-		 which might cancel out any downsides. Flavor is certainly good. Research the differences!
+		 which might cancel out any downsides. Flavor is certainly good.
+		-I'm having trouble puzzling out the differences and likely need to ask Lesley.
+			-This suggests range differences are the biggest difference, and the ranges table in
+			 Core seems to back that up: https://whitewolf.fandom.com/wiki/Data
+				-No ranges at all, in fact, with the table focusing only on the connection aspect.
+				-It also doesn't talk about successes, only ranks in the sphere. . .
+			-Core's table also suggests Data can take longer?
+			-Both spots imply no tech at both ends rules it out entirely, which is certainly a
+			 downside, but is also very much your paradigm anyways.
+				-Forces, electromagnetic radiation, and creativity might work around that even, a bit.
 	Entropy: 2
 	Forces: 2
-	Mind: 1
 	Prime: 1
 	
 
@@ -133,6 +141,8 @@ Merits & Flaws: (+7 Freebie Points)
 	Enemy (1 pt. Social Flaw, Core pg. 647):
 		-You have an internet-troll-y rival. Quick to respond to your every post, nothing you do is
 		 ever good or pure enough in their eyes, and they're quick to highlight your every mistake.
+		-Compounding matters, your avatar presents itself to you in more or less the same way,
+		 through internet-based messages, posts, etc. 
 		-TODO: Flesh this enemy out a bit further, unless Lesley wants you to leave that to him.
 			-Hmm. . . this is also a lot like how you might interact with your avatar. Is there some
 			 relation there? Some disident sub-faction of your past lives (or little brother who
@@ -169,7 +179,7 @@ Character Description and Background:
 	-Smashing the corps is your reason to be.
 		-It would be hard to believe it's possible, had you not learned anything is possible through
 		 the Web at the same time this goal was forming.
-	-You Awakening?
+	-Your Awakening?
 		-
 	-Dependent on gang Resources.
 	-Living situation?
@@ -189,6 +199,7 @@ Advancement:
 		6	Computer 4?
 		24	Arete 4
 		10	Mind 1
+		16	Prime 2
 		10	Life 1?
 	-Abilities?
 		-You have tons with one dot in them, and it's 2 XP to get to 2.
