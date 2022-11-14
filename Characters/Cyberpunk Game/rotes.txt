@@ -23,7 +23,7 @@ Noise Cancellation (Corr. •, Forces ••) [Original, approved]:
 	 inverted phase.
 	-Correspondence 1 allows _you_ to still hear while it is in effect (your equipment has to
 	 detect the sount to actively cancel it, and can pipe an unmodified feed to you).
-	-DYDT pg. 34 has a system for this. It has successes adding to the difficulty of Perception
+	-HDYDT pg. 34 has a system for this. It has successes adding to the difficulty of Perception
 	 rolls, up to "the usual modifier of +3."
 	-Duration, then, is protbably the usual success splitting, using the table on Core pg. 504.
 	-As an upgrade, any Virtual Adept worth their silicon can add Correspondence 2 to affect a
@@ -78,8 +78,22 @@ Rote ideas:
 			-Appearing "average" for the area in some way?
 			-Affecting your gait? Buzzers or electical stimulus from your wearables to help you
 			 maintain carefully random or average movement patterns?
-			-Mixing Forces in makes it an ECM flavored thing, controling your electronic emissions,
-			 throughing off falsified web "chaff", etc.
+			-Mixing Forces in makes it an ECM-flavored thing, controlling your electronic emissions,
+			 throwing off falsified web "chaff", etc.
+			-How about Stealth Mode (Correspondence ••, Entropy ••, Forces ••): [Original, TODO: Get approval!]
+				-Utilizing a sophisticated ECM suite, you endeavor to appear "average" for your
+				 present locale. That obviously includes electronic trickery, controlling your
+				 electronic emissions, throwing off falsified web "chaff", etc., but it also involves
+				 physical measures, like prompts and direct electrical muscle stimulation from your
+				 wearables to guide you in adjusting your gait, fooling gait recognition algorithms
+				 and human listeners both by matching an expected person or by avoiding any semblance
+				 of human footsteps at all (Dune walk!).
+				-System: Successes can be split between duration or a penalty to the difficulty of
+				 observers' Perception rolls (up to the usual max of -3). The rote is most effective
+				 against electronic or auditory monitoring, which is generally a coincidental effect,
+				 but enabling a more aggressive (read: vulgar) set of countermeasures allows it to
+				 be employed against human vision too, bending or otherwise manpulating light around
+				 you.
 		-Decryption?
 	-Lesley mentioned a hacking enhancing rote via voice?
 		-Entropy is a strong candidate for this sort of thing.

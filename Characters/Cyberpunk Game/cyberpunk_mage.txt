@@ -162,6 +162,10 @@ Character Description and Background:
 		-Character art is the SJ Games's Hacker box art.
 		-Icon?
 			-Possibly an angel? You have notes on this in campaign_notes.txt/
+			-Oh shit. Found great art for this, _and it was AI-generated_: https://www.reddit.com/r/midjourney/comments/wm4twe/cyberpunk_angel/
+			-"Mom was the religious one, and always said angels were watching over us. . . But have
+			  you ever _looked_ in the bible? They're not cherubs! They're strange, beautiful and
+			  terrible at once, capable of miracles, devastation, or both. . ."
 	-Impoverished slum childhood, the child of formerly middle class parents devastated by the
 	 automation-driven labor shocks.
 		-You blame the corps.
@@ -180,12 +184,16 @@ Character Description and Background:
 		-It would be hard to believe it's possible, had you not learned anything is possible through
 		 the Web at the same time this goal was forming.
 	-Your Awakening?
-		-
+		-Being Extremely Online (TM), TODO: happened online
 	-Dependent on gang Resources.
 	-Living situation?
 		-Basement of illegal conversion, with roommates above?
 			-Hacker/party vibe, maybe with weird livestreamed angle?
 			-_Definitely_ good locks on your door, with an improvised bar to resist forcing.
+		-Maybe basement had a previous occupant, growing/manufacturing some kind of drugs, with you
+		 taking over the room and "lease" when they disappeared and Digital Devils resources allowed
+		 you to?
+			-Would mean it already met some of your power, ventilation, and security requirements.
 
 Equipment:
 	-Glock 31 (Roll20, Heavy Pistol, Dmg: 5, Rng. 30, Rate: 3, Cap: 15, Conceal J)
@@ -203,3 +211,4 @@ Advancement:
 		10	Life 1?
 	-Abilities?
 		-You have tons with one dot in them, and it's 2 XP to get to 2.
+	-Wits?
