@@ -49,8 +49,6 @@ Abilities: (13/9/5, none above 3)
 
 Backgrounds: (7 + 5 for Freebie Points spent)
 	Avatar: 3
-		-Descriptive stuff? Is it a "ghost in the machine"? A chorus of voices online, driving you
-		 forward on your crusade? Is it _playing_ you, like a video game character?
 	Chantry: 1 (2 points spent on this double cost background)
 		-You're a member of The Digital Devils, and have access to their clubhouse on the Web.
 		-These two points apparently represent one dot in Chantry: https://discord.com/channels/1029445785118576672/1029445785563172895/1031043670444621834
@@ -144,7 +142,7 @@ Merits & Flaws: (+7 Freebie Points)
 		-Compounding matters, your avatar presents itself to you in more or less the same way,
 		 through internet-based messages, posts, etc. 
 		-TODO: Flesh this enemy out a bit further, unless Lesley wants you to leave that to him.
-			-Hmm. . . this is also a lot like how you might interact with your avatar. Is there some
+			-Hmm. . . this is also a lot like how you interact with your avatar. Is there some
 			 relation there? Some disident sub-faction of your past lives (or little brother who
 			 occasionally grabs the game controls)?
 	Overconfident (1 pt. Mental Flaw, BoS pg. 48):
@@ -164,7 +162,7 @@ Character Description and Background:
 			-Possibly an angel? You have notes on this in campaign_notes.txt/
 			-Oh shit. Found great art for this, _and it was AI-generated_: https://www.reddit.com/r/midjourney/comments/wm4twe/cyberpunk_angel/
 			-"Mom was the religious one, and always said angels were watching over us. . . But have
-			  you ever _looked_ in the bible? They're not cherubs! They're strange, beautiful and
+			  you ever _looked_ in the bible? They're not cherubs! They're strange, beautiful, and
 			  terrible at once, capable of miracles, devastation, or both. . ."
 	-Impoverished slum childhood, the child of formerly middle class parents devastated by the
 	 automation-driven labor shocks.
@@ -183,8 +181,32 @@ Character Description and Background:
 	-Smashing the corps is your reason to be.
 		-It would be hard to believe it's possible, had you not learned anything is possible through
 		 the Web at the same time this goal was forming.
-	-Your Awakening?
+	-Your Awakening:
 		-Being Extremely Online (TM), TODO: happened online
+	-Your beliefs:
+		-You believe in the Simulation Hypothesis, that our reality is one of a number of nested
+		 simulations, and that we are in the process of birthing the next layer, in the form of The
+		 Digital Web.
+			-https://en.wikipedia.org/wiki/Simulation_hypothesis
+		-As such, while physical laws exist, they're artificially imposed, and not as immutable as
+		 they seem. In particular, they may be manipulated through computing and information
+		 science techniques, and two apparently unconnected objects, events, or places  may be
+		 entangled after all, and in surprising ways, since it's all running on the same computing
+		 substrate.
+		-As to what the purpose of this reality-simulation is, you're not sure (what _is_ the
+		 meaning of life, anyways?). However, as a plucky, down-on-his-luck figure possessed of
+		 strange powers and beset by vast evil powers. . . well, you've played a video game or two
+		 hundred. . .
+	-Your Avatar:
+		-Your avatar appears to you as a chorus of messages and voices: online posts, chat messages,
+		 voice calls, etc.
+			-It drives you forward, on your crusade against the corps. Never content with past
+			 successes (and unforgiving of failures) 
+			-Confounding matters, this is _also_ how you interact with your Enemy, a troll and
+			 rival who believes everything you do is shit. It's easy to confuse the two.
+		-As to what you believe it _is_, you believe it's influence from whatever tier of reality
+		 yours is running on. If this is all a video game, is it _playing_ you? It would explain
+		 why it wants to smash the evil corps as badly as you do. . .
 	-Dependent on gang Resources.
 	-Living situation?
 		-Basement of illegal conversion, with roommates above?
@@ -194,6 +216,7 @@ Character Description and Background:
 		 taking over the room and "lease" when they disappeared and Digital Devils resources allowed
 		 you to?
 			-Would mean it already met some of your power, ventilation, and security requirements.
+			-Might also mean future trouble, if someone comes looking for the previous occupant.
 
 Equipment:
 	-Glock 31 (Roll20, Heavy Pistol, Dmg: 5, Rng. 30, Rate: 3, Cap: 15, Conceal J)

@@ -80,7 +80,7 @@ Rote ideas:
 			 maintain carefully random or average movement patterns?
 			-Mixing Forces in makes it an ECM-flavored thing, controlling your electronic emissions,
 			 throwing off falsified web "chaff", etc.
-			-How about Stealth Mode (Correspondence ••, Entropy ••, Forces ••): [Original, TODO: Get approval!]
+			-How about Sneak Mode (Correspondence ••, Entropy ••, Forces ••): [Original, TODO: Get approval!]
 				-Utilizing a sophisticated ECM suite, you endeavor to appear "average" for your
 				 present locale. That obviously includes electronic trickery, controlling your
 				 electronic emissions, throwing off falsified web "chaff", etc., but it also involves
