@@ -25,7 +25,7 @@ Noise Cancellation (Corr. •, Forces ••) [Original, approved]:
 	 detect the sount to actively cancel it, and can pipe an unmodified feed to you).
 	-HDYDT pg. 34 has a system for this. It has successes adding to the difficulty of Perception
 	 rolls, up to "the usual modifier of +3."
-	-Duration, then, is protbably the usual success splitting, using the table on Core pg. 504.
+	-Duration, then, is probably the usual success splitting, using the table on Core pg. 504.
 	-As an upgrade, any Virtual Adept worth their silicon can add Correspondence 2 to affect a
 	 remote area.
 Remote Access (Correspondence ••, Forces ••) [Roll20 Digital Web Rotes Handout]:

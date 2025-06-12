@@ -201,14 +201,14 @@ Character Description and Background:
 		-Your avatar appears to you as a chorus of messages and voices: online posts, chat messages,
 		 voice calls, etc.
 			-It drives you forward, on your crusade against the corps. Never content with past
-			 successes (and unforgiving of failures) 
+			 successes (and unforgiving of failures).
 			-Confounding matters, this is _also_ how you interact with your Enemy, a troll and
 			 rival who believes everything you do is shit. It's easy to confuse the two.
 		-As to what you believe it _is_, you believe it's influence from whatever tier of reality
 		 yours is running on. If this is all a video game, is it _playing_ you? It would explain
 		 why it wants to smash the evil corps as badly as you do. . .
 	-Dependent on gang Resources.
-	-Living situation?
+	-Living situation:
 		-Basement of illegal conversion, with roommates above?
 			-Hacker/party vibe, maybe with weird livestreamed angle?
 			-_Definitely_ good locks on your door, with an improvised bar to resist forcing.
