@@ -1,0 +1,122 @@
+Name: 
+Concept: 
+Affiliation: Dreamspeaker
+Essence: 
+Nature: 
+Demeanor: 
+Ruleset: M20
+
+Attributes: (7/5/3 above initial free dot)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (7)
+		Charisma: 4
+			Specialty: Charming
+		Manipulation: 4
+			Specialty: Guile
+		Appearance: 2
+	Mental: (5)
+		Perception: 3
+		Intelligence: 2
+		Wits: 3
+
+Abilities: (13/9/5, none above 3)
+	Talents: (9)
+		Alertness: 1
+		Awareness: 1
+		Brawl: 1
+		Empathy: 1
+		Expression: ?
+		Intimidation: ?
+		Leadership: ?
+		Streetwise: 2
+		Subterfuge: 3
+			+3 more dice from Totem
+	Skills: (13)
+		Crafts: 3
+			Specialty: Vehicle Repair
+		Drive: 3
+		Etiquette: 1
+		Firearms: 1
+		Meditation: 1
+		Melee: 1
+		Stealth: 1
+		Survival: 2
+	Knowledges: (5)
+		Cosmology: 3
+			+2 more dice from Totem
+		Lore (Spirit, Secondary): 1
+			+2 more dice from Totem
+		Medicine: 1
+
+Backgrounds: (7 + 8 for Freebie Points spent)
+	Avatar: 3
+	Contacts: 1
+		-Related to your trade in Spirit skills and Quintessence?
+		-TODO: Detail your one major contact.
+	Resources: 1
+		-Living out of a truck or van? Maybe a truck-to-RV conversion?
+			-Nicer than resources would suggest for your vehicle, but you have no other dwelling.
+	Totem (double cost): 5
+		-Beloved of Coyote, giving a +3 dice bonus to Subterfuge and +2 to Cosmology and Spirit
+		 Lore both.
+		-Coyote also gives you frequent company and aid, in dreams, visions, omens, and solid form.
+		-Your connnection to Coyote is also obvious, especially to those knowledgeable about
+		 spirits, but also even to sleepers.
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Prime: 3
+	Spirit (Affinity): 3
+
+Arete: 3 (1 + 2 for Freebie Points spent)
+Willpower: 5 (5)
+Quintessence:  (Avatar rating)
+Paradox: 0 (0)
+
+Focus:
+	-A paradigm: 
+	-A practice: 
+	-Instruments:
+		
+
+Merits & Flaws: (+1 Freebie Points)
+	Addiction (1 pt. Physical Flaw, Core pg. 646): 
+		-Cigarettes, tied in part to your Echoes, as described below.
+	Confidence (2 pt. Merit, BoS pg. 55):
+		-Difficulty is -2 for all social roles to impress others with your capabilities and +2 to
+		 the difficulties of others' social rolls to shake your confidence or shatter your calm.
+	Echoes (2 pt. Supernatural Flaw, Core pg. 646):
+		-Always followed by the faint scent of coyote musk for 2 points.
+		-Humans find it unpleasant, but animals especially react to it (textbook example of the 2
+		 pt. level).
+			-Animals bothered by the presence of a coyote (likely, most) shy away or even freak out,
+			 though coyotes of course love you.
+		-The cigarettes are, in part, to try to cover it up.
+	-Stormwarden or Umbral Affinity might be worth adding if playing with the
+	 Avatar Storm metaplot event.
+
+Freebie points:  (15 + 1 for Merits & Flaws)
+	8	Arete 2 & 3
+	8	Additional Background points
+
+Character Description and Background:
+	-Appearance:
+		-Mixed ancestry, largely African and indigenous American.
+		-(My conception of this character draws a lot from the character of Rufus in Termination
+		  Shock.)
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	-(You tend to consecrate and awaken the spirits of your few, but valued, possessions.)
+	-Vehicle (see Resources, above, and maybe flesh it out more here).
+	-
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		
