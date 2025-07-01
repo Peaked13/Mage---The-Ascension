@@ -1,0 +1,133 @@
+Name: 
+Concept: 
+Affiliation: 
+Essence: Questing
+Nature: 
+Demeanor: 
+Ruleset: M20
+
+Attributes: (7/5/3 above initial free dot)
+	Physical: (5)
+		Strength: 2
+		Dexterity: 4
+			Specialty: Hand-Eye Coordination
+		Stamina: 2
+	Social: (3)
+		Charisma: 2
+		Manipulation: 2
+		Appearance: 2
+	Mental: (7)
+		Perception: 4
+			Specialty: Sharp Senses
+		Intelligence: 4
+			Specialty: Book Learning
+		Wits: 2
+
+Abilities: (13/9/5, none above 3)
+	Talents: ()
+		Alertness: ?
+		Awareness: 
+		Empathy: 
+		High Ritual (Secondary): ?
+	Skills: ()
+		Crafts: ?
+		Drive: ?
+		Etiquette: ?
+		Meditation: ?
+		Research: 
+		Technology: 1?
+	Knowledges: ()
+		Academics: 
+		Belief Systems (Secondary): ?
+		Computer: 
+		Cosmology: 
+		Cryptography (Secondary): ?
+		Enigmas: 
+		Esoterica: 
+		Investigation: ?
+		VARIOUS Lore (Secondary): ?
+		Occult: 
+
+Backgrounds: (7)
+	Avatar: ?
+	Library: ?
+	Node: ?
+	Resources: 
+	Retainers: 1 or 2?
+		-Your Alfred? Maybe a groundskeeper too?
+	Sanctum (double cost): 
+	Wonder: ?
+		-Something giving you access to your remote sanctum?
+			-Correspondence 3 to teleport just you, requiring minimum background level of 3 (Core pg. 653), with 2 successes necessary to go to a very familiar place and maybe 3 or 4 to go back (Core pg. 504).
+				- more Arete?
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Correspondence: ?
+		-Interesting starting at 2.
+	Entropy: ?
+	Forces (Affinity): 
+	Life: ?
+	Matter: ?
+		-2 for X into gold is interesting, for Resources, but 1 isn't too much so.
+	Mind: ?
+	Prime: ?
+	Spirit: ?
+
+Arete:  (1)
+Willpower:  (5)
+Quintessence:  (Avatar rating)
+Paradox:  (0)
+
+Focus:
+	-A paradigm: Bring Back the Golden Age! (Core pg. 569)
+	-A practice: High Ritual Magic (Core pg. 578)
+		-Candidates to mix in: Alchemy? 
+	-Instruments:
+		Books, Scrolls, and Periodicals
+		Brews, Potions, Powders and Other Concoctions?
+		Celestial Alignments?
+		Circles, Pentacles, and Other Geometric Designs
+
+Merits & Flaws: ( Freebie Points)
+	Ability Deficit (5 pt. Mental Flaw, Bos pg. 53): ?
+		-
+	Curiosity(2 pt. Mental Flaw, Bos pg. 48):
+		-Must resist enticing clues and enigmas with a Wits roll to avoid giving in to temptation.
+		-Difficulty varies based on how compelling the situation is, with examples given in book.
+	Easily Intoxicated (2 pt. Physical Flaw, Bos pg. 40):
+		-Difficulty is +3 on Stamina rolls to resist drugs and poisoms.
+	Enemy (1 to 5 pt. Social Flaw, Core pg. 647): ?
+		- Some old enemy _of your benefactor_?
+	Hideaway/Safehouse (2, 4, or 6 pt. Social Merit, Bos pg. 55): ?
+		-
+	Impatient (1 pt. Mental Flaw, Bos pg. 46): ?
+		-
+	Jinx/Infernal Contraption (2 to 10 pt. Supernatural Flaw, Bos pg. 88): ?
+		-
+	Overconfident (1 pt. Mental Flaw, Bos pg. 48): ?
+		-
+	Phobia (2 pt. Mental Flaw, Bos pg. 50): ?
+		-
+	Rose-Colored Glasses (2 pt. Mental Flaw, Bos pg. 50): ?
+		-
+	Vanilla (1 pt. Mental Flaw, Bos pg. 48): ?
+		-
+	
+
+Freebie points:  (15 +  for Merits & Flaws)
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		

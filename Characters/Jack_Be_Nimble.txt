@@ -1,0 +1,114 @@
+Name: 
+Concept: 
+Affiliation: Cult of Ecstasy
+Essence: Dynamic
+Nature: 
+Demeanor: 
+Ruleset: M20
+
+Attributes: (7/5/3 above initial free dot)
+	Physical: (7)
+		Strength: 2
+		Dexterity: 6
+			Specialty: Nimble
+		Stamina: 2
+	Social: (3)
+		Charisma: 2
+		Manipulation: 2
+		Appearance: 2
+	Mental: (5)
+		Perception: 2
+		Intelligence: 2
+		Wits: 4
+			Specialty: Getting the Jump on Others (not a in M20, but in V20 Core)
+
+Abilities: (13/9/5, none above 3)
+	Talents: ()
+		Acrobatics (Secondary):
+			-Kind of shitty this isn't rolled into Athletics, especially since M20 doesn't seem to
+			 halve the price of secondary abilities like some other WoD games do.
+		Alertness: 
+		Art: 
+			Specialty: Dance
+		Athletics: 
+		Blatency (Secondary): ?
+		Brawl: ?
+		Carousing (Secondary): ?
+		Empathy: ?
+		Expression: 
+		Streetwise: ?
+	Skills: ()
+		Drive: ?
+		Firearms: ?
+		Meditation: ?
+		Stealth: ?
+		Survival: ?
+	Knowledges: ()
+		Academics: 1?
+		Esoterica: ?
+		Medicine: ?
+		Pharmacopoeia (Secondary): 1?
+
+Backgrounds: (7)
+	Legend: 
+		-2 or 3 seems reasonable for the rhyme's prominence, though it's the kind of background
+		 where more is probably better.
+	Past Lives: ?
+	
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Forces: 2
+	Life: 1
+	Time: 3
+
+Arete: 3 (1 + 2 for Freebie Points spent)
+Willpower:  (5)
+Quintessence:  (Avatar rating)
+Paradox:  (0)
+
+Focus:
+	-A paradigm: Everything is Chaos (Core pg. 570)?
+	-A practice: Chaos Magick  (Core pg. 574)?
+	-Instruments:
+		Bodywork?
+		Brews, Potions, Powders and Other Concoctions?
+		Dances, Gestures, Postures, and Other Movement Practices
+		Drugs and Poisons?
+		Elements?
+			Fire! Mixed with dancing, candles. . .
+
+Merits & Flaws: ( Freebie Points)
+	Legendary Attributes: Dexterity (5 pt. Supernatural Merit, Bos pg. 77):
+		-You Dexterity can be bought up to 6, and you have one heroic capability tied to that.
+		- TODO: What is your heroic capability? The text gives examples, but not for Dex.
+	Lucky (3 pt. Supernatural Merit, Bos pg. 71): ?
+		- 
+	Sphere Inept (6 pt. Supernatural Flaw, Bos pg. 94): ?
+		- Correspondence? You being a very "present" person? Out of sight is out of mind for you?
+	Throwback (1 to 5 pt. Supernatural Flaw, Bos pg. 85): ?
+		- if Past Lives especially. . .
+	
+
+Freebie points:  (15 +  for Merits & Flaws)
+	8	Arete 2 & 3
+	?	More attribute points? Particularly physical?
+	?	More spheres? Life 2? Forces 3? Mind? Entropy?
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-Reference about the rhyme: https://en.wikipedia.org/wiki/Jack_Be_Nimble
+		-"Jumping candlesticks was a form of fortune telling"!
+	-So, perhaps a dervish and fire-dancing influenced Ecstatic?
+		-Very Physical, as a result?
+
+Equipment (stuff to start with or obtain):
+	
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		
