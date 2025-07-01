@@ -1,7 +1,7 @@
 Name: 
 Concept: 
 Affiliation: Dreamspeaker
-Essence: 
+Essence: Questing
 Nature: 
 Demeanor: 
 Ruleset: M20
@@ -76,10 +76,15 @@ Quintessence:  (Avatar rating)
 Paradox: 0 (0)
 
 Focus:
-	-A paradigm: 
-	-A practice: 
+	-A paradigm: Creation is Innately Divine and Alive (Core pg. 569)
+	-A practice: Shamanism (Core pg. 582)
 	-Instruments:
-		
+		Brews, Potions, Powders and Other Concoctions?
+		Celestial Alignments?
+		Circles, Pentacles, and Other Geometric Designs?
+		Crossroads and Crossing-Days?
+		Dances, Gestures, Postures, and Other Movement Practices
+		Drugs and Poisons?
 
 Merits & Flaws: (+1 Freebie Points)
 	Addiction (1 pt. Physical Flaw, Core pg. 646): 
@@ -120,3 +125,5 @@ Rotes:
 Advancement:
 	-Tentative schedule:
 		
+	-Matter might be an important sphere for you, to combine with Spirit and on it's own for
+	 enhancing objects, particularly your vehicle.
