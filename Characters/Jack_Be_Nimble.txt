@@ -7,11 +7,11 @@ Demeanor:
 Ruleset: M20
 
 Attributes: (7/5/3 above initial free dot)
-	Physical: (7)
+	Physical: (7 + 1 for Freebie Points spent)
 		Strength: 2
 		Dexterity: 6
 			Specialty: Nimble
-		Stamina: 2
+		Stamina: 3
 	Social: (3)
 		Charisma: 2
 		Manipulation: 2
@@ -23,38 +23,33 @@ Attributes: (7/5/3 above initial free dot)
 			Specialty: Getting the Jump on Others (not a in M20, but in V20 Core)
 
 Abilities: (13/9/5, none above 3)
-	Talents: ()
-		Acrobatics (Secondary):
+	Talents: (13)
+		Acrobatics (Secondary): 3
 			-Kind of shitty this isn't rolled into Athletics, especially since M20 doesn't seem to
 			 halve the price of secondary abilities like some other WoD games do.
-		Alertness: 
-		Art: 
+		Alertness: 1
+		Art: 3
 			Specialty: Dance
-		Athletics: 
-		Blatency (Secondary): ?
-		Brawl: ?
-		Carousing (Secondary): ?
-		Empathy: ?
-		Expression: 
-		Streetwise: ?
-	Skills: ()
-		Drive: ?
-		Firearms: ?
-		Meditation: ?
-		Stealth: ?
-		Survival: ?
-	Knowledges: ()
-		Academics: 1?
-		Esoterica: ?
-		Medicine: ?
-		Pharmacopoeia (Secondary): 1?
+		Athletics: 3
+		Brawl: 1
+		Streetwise: 2
+	Skills: (9)
+		Drive: 1
+		Firearms: 2
+		Meditation: 3
+		Stealth: 3
+	Knowledges: (5)
+		Academics: 1
+		Esoterica: 1
+		Pharmacopoeia (Secondary): 3
 
-Backgrounds: (7)
-	Legend: 
+Backgrounds: (7 + 1 for Freebie Points spent)
+	Avatar: 3
+	Legend: 2
 		-2 or 3 seems reasonable for the rhyme's prominence, though it's the kind of background
 		 where more is probably better.
-	Past Lives: ?
-	
+	Past Lives: 3
+		-Past lives that _also_ very much embodied your Legend. Thieves, tricksters, etc.
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Forces: 2
@@ -62,8 +57,8 @@ Spheres: (6, with one designated your Affinity, none higher than Arete or perm. 
 	Time: 3
 
 Arete: 3 (1 + 2 for Freebie Points spent)
-Willpower:  (5)
-Quintessence:  (Avatar rating)
+Willpower: 5 (5)
+Quintessence: 3 (Avatar rating)
 Paradox:  (0)
 
 Focus:
@@ -83,30 +78,30 @@ Focus:
 		Ordeals and Exertion
 
 Merits & Flaws: ( Freebie Points)
-	Legendary Attributes: Dexterity (5 pt. Supernatural Merit, Bos pg. 77):
+	Legendary Attributes: Dexterity (5 pt. Supernatural Merit, BoS pg. 77):
 		-You Dexterity can be bought up to 6, and you have one heroic capability tied to that.
 		- TODO: What is your heroic capability? The text gives examples, but not for Dex.
-	Lucky (3 pt. Supernatural Merit, Bos pg. 71): ?
-		- 
-	Sphere Inept (6 pt. Supernatural Flaw, Bos pg. 94): ?
-		- Correspondence? You being a very "present" person? Out of sight is out of mind for you?
-	Throwback (1 to 5 pt. Supernatural Flaw, Bos pg. 85): ?
-		- if Past Lives especially. . .
-	
+	Lucky (3 pt. Supernatural Merit, BoS pg. 71): ?
+		-Re-roll a failed die roll up to three times per story. Re-roll cannot be rolled again.
+	Sphere Inept (6 pt. Supernatural Flaw, BoS pg. 94):
+		-Correspondence. You're a very "present" person. . . and out of sight is out of mind for you.
+	Throwback (1 pt. Supernatural Flaw, BoS pg. 85):
+		-Some of those past lives as a trickster got caught. . .
 
-Freebie points:  (15 +  for Merits & Flaws)
+Freebie points:  (15 - 1 for Merits & Flaws)
 	8	Arete 2 & 3
-	?	More attribute points? Particularly physical?
-	?	More spheres? Life 2? Forces 3? Mind? Entropy?
-	
+	5	Stamina 3
+	1	Past Lives 3
 
 Character Description and Background:
 	-Appearance:
 		-
 	-Reference about the rhyme: https://en.wikipedia.org/wiki/Jack_Be_Nimble
 		-"Jumping candlesticks was a form of fortune telling"!
-	-So, perhaps a dervish and fire-dancing influenced Ecstatic?
-		-Very Physical, as a result?
+	-So, a dervish and fire-dancing influenced Ecstatic.
+		-Very Physical, as a result.
+		-Your dot of Esoterica is about these sorts of practices, especially folk magic fortune
+		 telling involving flame (suggestive of possible future specialties in this or Occult. . .).
 
 Equipment (stuff to start with or obtain):
 	
