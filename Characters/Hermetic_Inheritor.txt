@@ -1,6 +1,6 @@
 Name: 
-Concept: 
-Affiliation: 
+Concept: Hermetic Inheritor
+Affiliation: Order of Hermes
 Essence: Questing
 Nature: 
 Demeanor: 
@@ -24,59 +24,88 @@ Attributes: (7/5/3 above initial free dot)
 		Wits: 2
 
 Abilities: (13/9/5, none above 3)
-	Talents: ()
+	Talents: (5)
 		Alertness: ?
-		Awareness: 
-		Empathy: 
-		High Ritual (Secondary): ?
-	Skills: ()
-		Crafts: ?
-		Drive: ?
-		Etiquette: ?
-		Meditation: ?
-		Research: 
-		Technology: 1?
-	Knowledges: ()
-		Academics: 
-		Belief Systems (Secondary): ?
-		Computer: 
-		Cosmology: 
-		Cryptography (Secondary): ?
-		Enigmas: 
-		Esoterica: 
-		Investigation: ?
-		VARIOUS Lore (Secondary): ?
-		Occult: 
+		Awareness: 1
+		Empathy: 1
+		High Ritual (Secondary): 3
+	Skills: (9)
+		Crafts: 1
+			Specialty: Calligraphy?
+		Drive: 1
+		Etiquette: 1
+		Meditation: 3
+		Research: 3
+	Knowledges: (13)
+		Academics: 2
+		Computers: 1
+		Cosmology: 2
+		Enigmas: 2
+		Esoterica: 2
+			-Does this require a specialty? Or even _different abilities_?
+		Investigation: 1
+		Lore (Secondary): 1
+			-Does this require a specialty? Or even _different abilities_?
+		Occult: 2
 
-Backgrounds: (7)
-	Avatar: ?
-	Library: ?
-	Node: ?
-	Resources: 
-	Retainers: 1 or 2?
-		-Your Alfred? Maybe a groundskeeper too?
-	Sanctum (double cost): 
-	Wonder: ?
+Backgrounds: (7 + 22 for Freebie Points spent)
+	Avatar: 3
+	Library: 3
+	Node: 4
+	Resources: 5
+	Retainers: 2
+		-Head "butler":
+			-Your Alfred, he's your research assistant, the business manager for your estate, and
+			 plays the part of domestic servent too, albeit a bit resentfully.
+			-Rather cowardly too, as he's heard tales of what happened to his predecessor, many
+			 years ago.
+		-A groundskeeper:
+			-An elderly grizzled combat veteran, security of your estate forms the core of his
+			 responsibilities while he views the actual groundskeeping as something of a hobby and
+			 retirement.
+			-Older than your other retainer and longer in service to your benefactor. He's the one
+			 who's been telling the butler tales about his predecessor. . .
+			-Drinks more than he should, and possible has PTSD.
+	Sanctum (double cost): 4
+		-Or scale down (along with other stuff?) for Hideaway/Safehouse Merit!
+			-Not sure I can manage the 6 pt. version with Sanctum at 4. Probably not worth giving
+			 that up, or taking any lesser version.
+		-4 gives the second point of ritual difficulty reduction, which is very nice.
+	Wonder: 4
 		-Something giving you access to your remote sanctum?
-			-Correspondence 3 to teleport just you, requiring minimum background level of 3 (Core pg. 653), with 2 successes necessary to go to a very familiar place and maybe 3 or 4 to go back (Core pg. 504).
-				- more Arete?
+			-Correspondence 3 to teleport just you, requiring minimum background level of 3 (Core
+			 pg. 653), with 2 successes necessary to go to a very familiar place and maybe 3 or 4
+			 to go back (Core pg. 504).
+				-More Arete? Can have extra Arete for each additional Background point spent on it.
+					-Yeah, lets call it Arete 4, for 4 background points.
+					-Even more could be wise, depending on what difficulty modifiers you can
+					 qualify for on the roll.
+				-Or would making this an Artifact (BoS pg. 140) make more sense?
+					-It would be somewhat more reliable, especially as _your own_ Arete increased,
+					 at the cost of only being used by the Awakened (a thing I'd already thought
+					 sounded right).
+					-Sounds like a good fit for this, but would need to talk with the Storyteller
+					 where I use this. If it _is_ allowed, it's probably _cheaper_ by a dot, if
+					 anything, since no need for the extra point of Talisman-Arete.
+						-If it is cheaper, you might be able to manage the 6 point Hideaway/
+						 Safehouse Merit (BoS pg. 55) after all!
+			-A rug or other cloth woven through with threads of strange metals and materials forming
+			 arcane diagrams?
+				-It takes you to a similar diagram on the floor of your sanctum, in some sense, the
+				 same object as the cloth. That diagram can return you to the cloth.
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
-	Correspondence: ?
-		-Interesting starting at 2.
-	Entropy: ?
-	Forces (Affinity): 
-	Life: ?
-	Matter: ?
-		-2 for X into gold is interesting, for Resources, but 1 isn't too much so.
-	Mind: ?
-	Prime: ?
-	Spirit: ?
+	Entropy: 1
+	Forces (Affinity): 1
+	Life: 1
+	Mind: 1
+	Prime: 1
+	Spirit: 1
 
-Arete:  (1)
-Willpower:  (5)
-Quintessence:  (Avatar rating)
-Paradox:  (0)
+Arete: 1 (1)
+Willpower: 5 (5)
+Quintessence: 3 (Avatar rating)
+Paradox: 0 (0)
 
 Focus:
 	-A paradigm: Bring Back the Golden Age! (Core pg. 569)
@@ -105,39 +134,35 @@ Focus:
 		Wands, Rods, and Staves
 		Writings, Inscriptions, and Runes
 
-Merits & Flaws: ( Freebie Points)
-	Ability Deficit (5 pt. Mental Flaw, Bos pg. 53): ?
-		-
-	Curiosity(2 pt. Mental Flaw, Bos pg. 48):
+Merits & Flaws: (+7 Freebie Points)
+	Curiosity(2 pt. Mental Flaw, BoS pg. 48):
 		-Must resist enticing clues and enigmas with a Wits roll to avoid giving in to temptation.
 		-Difficulty varies based on how compelling the situation is, with examples given in book.
-	Easily Intoxicated (2 pt. Physical Flaw, Bos pg. 40):
-		-Difficulty is +3 on Stamina rolls to resist drugs and poisoms.
-	Enemy (1 to 5 pt. Social Flaw, Core pg. 647): ?
-		- Some old enemy _of your benefactor_?
-	Hideaway/Safehouse (2, 4, or 6 pt. Social Merit, Bos pg. 55): ?
-		-
-	Impatient (1 pt. Mental Flaw, Bos pg. 46): ?
-		-
-	Jinx/Infernal Contraption (2 to 10 pt. Supernatural Flaw, Bos pg. 88): ?
-		-
-	Overconfident (1 pt. Mental Flaw, Bos pg. 48): ?
-		-
-	Phobia (2 pt. Mental Flaw, Bos pg. 50): ?
-		-
-	Rose-Colored Glasses (2 pt. Mental Flaw, Bos pg. 50): ?
-		-
-	Vanilla (1 pt. Mental Flaw, Bos pg. 48): ?
-		-
+	Easily Intoxicated (2 pt. Physical Flaw, BoS pg. 40):
+		-Difficulty is +3 on Stamina rolls to resist drugs and poisons.
+	Rose-Colored Glasses (2 pt. Mental Flaw, BoS pg. 50):
+		-In your eyes, The Order of Hermes can do no wrong. You view anything they do in a favorable
+		 light and will go to great lengths to ignore any evidence otherwise.
+	Vanilla (1 pt. Mental Flaw, BoS pg. 48):
+		-An innocent, jokes get past you, clues escape you, and references to anything rawer than
+		 a Disney flick go straight over your head.
 	
 
-Freebie points:  (15 +  for Merits & Flaws)
-	
+Freebie points:  (15 + 7 for Merits & Flaws)
+	22		Additional Background points
 
 Character Description and Background:
 	-Appearance:
 		-
-	-
+	- bounced around mentors ; more than a bit unfocused ; wearing out your welcome as a student in the order
+	- TODO: sequence of puzzles, leading to inheritance
+		- hints of steps you skipped
+		- get the impression it took longer than expected for someone to solve it; " just waiting for the perfect person!"
+		-Your lack of focus and breadth instead of depth of magickal ability probably has a lot to
+		 do with being able to solve all the mysteries. . . and may mean you managed this without
+		 being the archmage your benefactor expected.
+	- TODO: Benefactor:
+		- deceased Hermetic mage ; she
 
 Equipment (stuff to start with or obtain):
 	
