@@ -1,5 +1,5 @@
 Name: 
-Concept: 
+Concept: Jack be nimble; Jack be quick; Jack jump over the candlestick.
 Affiliation: Cult of Ecstasy
 Essence: Dynamic
 Nature: 
@@ -62,8 +62,8 @@ Quintessence: 3 (Avatar rating)
 Paradox:  (0)
 
 Focus:
-	-A paradigm: Everything is Chaos (Core pg. 570)?
-	-A practice: Chaos Magick  (Core pg. 574)?
+	-A paradigm: Everything is Chaos (Core pg. 570)
+	-A practice: Chaos Magick  (Core pg. 574)
 	-Instruments:
 		Bodywork?
 		Brews, Potions, Powders and Other Concoctions?

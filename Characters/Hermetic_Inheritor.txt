@@ -25,7 +25,6 @@ Attributes: (7/5/3 above initial free dot)
 
 Abilities: (13/9/5, none above 3)
 	Talents: (5)
-		Alertness: ?
 		Awareness: 1
 		Empathy: 1
 		High Ritual (Secondary): 3
@@ -154,13 +153,21 @@ Freebie points:  (15 + 7 for Merits & Flaws)
 Character Description and Background:
 	-Appearance:
 		-
-	- bounced around mentors ; more than a bit unfocused ; wearing out your welcome as a student in the order
-	- TODO: sequence of puzzles, leading to inheritance
-		- hints of steps you skipped
-		- get the impression it took longer than expected for someone to solve it; " just waiting for the perfect person!"
-		-Your lack of focus and breadth instead of depth of magickal ability probably has a lot to
-		 do with being able to solve all the mysteries. . . and may mean you managed this without
-		 being the archmage your benefactor expected.
+	-As a Hermetic apprentice, you bounced around mentors. Each discovered you to be more than a bit
+	 unfocused, and you were gradually wearing out your welcome as a student in The Order.
+	-You eventually discovered a sequence of puzzles, set out by some mysterious benefactor within
+	 the order. Irresistable to you, you followed them, eventually leading to an inheritance from
+	 what turned out to be a deceased Hermetic mage who'd set these puzzles out as a test for a
+	 worthy successor.
+		-You actually got hints of early steps you skipped, perhaps suggesting you jumped in part
+		 way through the sequence.
+		-You get the impression, particularly from your eventual retainers, that it took longer than
+		 expected for someone to solve it, a thing you take to mean that your inheritance was, "Just
+		 waiting for the perfect person!"
+		-Your lack of focus, and breadth instead of depth of magickal ability, probably has a lot to
+		 do with being able to solve all of the varied the mysteries, tied as they were to many
+		 different spheres of magick, and may mean you managed this without being the archmage your
+		 benefactor expected. . .
 	- TODO: Benefactor:
 		- deceased Hermetic mage ; she
 

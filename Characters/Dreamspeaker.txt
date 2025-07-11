@@ -1,5 +1,5 @@
 Name: 
-Concept: 
+Concept: Nomadic road shaman, trading in your skill with spirits, and Quintessence.
 Affiliation: Dreamspeaker
 Essence: Questing
 Nature: 
