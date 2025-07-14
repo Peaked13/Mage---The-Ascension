@@ -1,0 +1,99 @@
+Name: 
+Concept: 
+Affiliation: Euthanatos
+Essence: Questing
+Nature: 
+Demeanor: 
+Ruleset: 
+
+Attributes: (7/5/3 above initial free dot)
+	Physical: (7)
+		Strength: 3
+		Dexterity: 5
+			Specialty: ?
+		Stamina: 2
+	Social: (3)
+		Charisma: 1
+		Manipulation: 4
+			Specialty: ?
+		Appearance: 1
+	Mental: (5)
+		Perception: 3
+		Intelligence: 1
+		Wits: 3
+
+Abilities: (13/9/5, none above 3)
+	Talents: ()
+		Alertness: 
+		Athletics: 
+		Awarenemss: ?
+		Brawl: ?
+		Intimidation: ?
+		Streetwise: ?
+		Subterfuge: ?
+	Skills: ()
+		Archery (Secondary): ?
+		Crafts: ?
+			Specialty: Weaponsmith?
+		Drive: ?
+		Firearms: 
+		Martial Arts: ?
+		Meditation: ?
+		Melee: 
+		Stealth: 
+		Survival: ?
+	Knowledges: ()
+		Academics: ?
+		Computer: ?
+		Demolitions (Secondary): ?
+		Esoterica: ?
+		Investigation: 
+		Law: ?
+		Lore (Secondary):
+			Vampires, if Specialties are mandatory, or they're separate Abilities. Not too clear how that works in M20. . .
+		Medicine: ?
+
+Backgrounds: (7)
+	Arcane: ?
+	Avatar: 
+	Mentor: ?
+	Past Lives: ?
+	Resources: 
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Entropy: 3
+	Forces: 3, to "erode or enhance energies with E3? Or just 2 for almost everything else you want?
+	Life: ? 2 would be really nice if you can swing it, offering healing, and invisibiltity and flight with F2.
+
+Arete: 3 (1)
+Willpower:  (5)
+Quintessence:  (Avatar rating)
+Paradox:  (0)
+
+Focus:
+	-A paradigm: 
+	-A practice: 
+	-Instruments:
+		
+
+Merits & Flaws: ( Freebie Points)
+	8	Arete 2 & 3
+	
+
+Freebie points:  (15 +  for Merits & Flaws)
+	
+
+Character Description and Background:
+	-Appearance:
+		- Scarred by whatever turned you so firmly against vampires?
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		
