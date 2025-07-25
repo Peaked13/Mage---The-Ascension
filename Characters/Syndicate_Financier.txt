@@ -1,0 +1,129 @@
+Name: 
+Concept: 
+Affiliation: Syndicate
+Essence: 
+Nature: 
+Demeanor: 
+Ruleset: 
+
+Attributes: (7/5/3 above initial free dot)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (7)
+		Charisma: 4
+			Specialty: Inspirational
+		Manipulation: 4
+			Specialty: Guile
+		Appearance: 2
+	Mental: (5)
+		Perception: 2
+		Intelligence: 4
+			Specialty: Keen-Edged Mind
+		Wits: 2
+
+Abilities: (13/9/5, none above 3)
+	Talents: (9)
+		Empathy: 1
+		Expression: 1
+		Intimidation: 1
+		Leadership: 3
+		Subterfuge: 3
+	Skills: (5)
+		Etiquette: 1
+		Firearms: 1
+		Hypertech (Secondary): 1
+			(Can't be higher than Technology.)
+		Research: 1
+		Technology: 1
+	Knowledges: (13)
+		Academics: 1
+		Computer: 3
+		Finance (Secondary): 3
+		Investigation: 1
+		Law: 1
+		Media (Secondary): 1
+		Politics: 3
+
+Backgrounds: (7)
+	Contacts: 1
+		-1, mostly to roll for minor contacts?
+	Genius (Avatar): 3
+	Influence: 3
+	Requisitions: ???
+		-Neat, but a bit redundant with your wealth and power.
+	Resources: 6
+	Sanctum: ???
+		-2 just for coincidental magick? Yours pretty much always is anyways, though. . .
+	Status: 3
+		-Odd numbers are nice for the "halved (round up)" among allied affiliations.
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Data (Correspondence): 3?
+	Mind: ??
+	Primal Utility (Prime, Affinity): 3
+
+Arete: 3 (1 + 2 for Freebie Points spent)
+Willpower:  (5)
+Quintessence:  (Avatar rating)
+Paradox:  (0)
+
+Focus:
+	-A paradigm: 
+	-A practice: 
+	-Instruments:
+		
+
+Merits & Flaws: ( Freebie Points)
+	Computer Aptitude (1 pt. Mental Merit, BoS pg. 43): ??
+		-All computer-based rolls get -2 difficulty, including magick (but only up to the magick-
+		 roll limit of -3).
+	Confidence (2 pt. Social Merit, BoS pg. 55): ?
+		-Social rolls to impress others with your capabilities are -2 difficulty, while rolls for
+		 others to shake your confidence or shatter your calm get +2 difficulty.
+	Dogmatic (2 pt. Social Flaw, BoS pg. 64):
+		-You really believe in the system, which, for you, is capital-T-Technocratic capitalism and
+		 you're here to preach it. After all, it elevated you, as you clearly deserved, so it knows
+		 what it's doing.
+		-You get +2 difficulty to all social rolls when dealing with people who disagree.
+	Enchanting Feature (Enchanting Voice, 2 pt. Physical Merit, BoS pg. 37): ?
+		-Applies -2 difficulty to related rolls, including casting difficulty if used as a Focus,
+		 where it counts as a personalized unique instrument.
+		-Picked the Enchanting Voice wording from the form of the merit in V20, where it gives "-2
+		 difficulty for "all die rolls involving the use of the voice to persuade, charm or
+		 command". Probably a good fit for this character, but there could be other options. BoS
+		 lists a "Soothing Voice" option.
+	Enemy (3 pt. Social Flaw, Core pg. 647):
+		-Right in the middle of the 1 to 5 pt. range, which ranges from a minor grudge from the
+		 inconsequential to the deadly plans of some powerful entity or group.
+		-I'm imagining a vampire, probably a Ventrue, that your business dealings (and all too
+		 similar parasitism of the productive economy) crossed the path of, offending the
+		 territorial creature.
+	Impediment (Bad Sight, 1 pt. Physical Flaw, BoS pg. 39):
+		-+2 difficulty for rolls involving eyesight. Can wear glasses for it, or it would be more
+		 points.
+		-(Based the details on the Bad Sight V20 flaw, but BoS also lists something similar in it's
+		  description of a 1 pt. Impediment.)
+	Overconfident (1 pt. Mental Flaw, BoS pg. 48):
+		-You wildly over estimate yourself. Even though you are really great, of course.
+	Poker Face (2 pt. Physical Merit, BoS pg. 38): ??
+		-
+
+Freebie points:  (15 +  for Merits & Flaws)
+	8	Arete 2 & 3
+
+Character Description and Background:
+	-Appearance:
+		-
+	- specializing in moving Primal Energy about
+
+Equipment (stuff to start with or obtain):
+	
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		
