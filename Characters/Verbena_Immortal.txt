@@ -1,0 +1,100 @@
+Name: 
+Concept: 
+Affiliation: 
+Essence: Primordial (or maybe Questing?)
+Nature: 
+Demeanor: 
+Ruleset: 
+
+Attributes: (7/5/3 above initial free dot)
+	Physical: ()
+		Strength: 
+		Dexterity: 
+		Stamina: 
+	Social: ()
+		Charisma: 
+		Manipulation: 
+		Appearance: 
+	Mental: ()
+		Perception: 
+		Intelligence: 
+		Wits: 
+
+Abilities: (13/9/5, none above 3)
+	Talents: ()
+		
+	Skills: ()
+		
+	Knowledges: ()
+		
+
+Backgrounds: (7)
+	Arcane: ?
+	Avatar: 
+	Cult: ?
+	Destiny: ?
+	Familiar: ?
+		-If your phylactery is a creature. . .
+	Mentor: ?
+	Node: ?
+		-If your phylactery is a place. . .
+	Patron: ?
+	Sanctum: ?
+		-If your phylactery is a place. . .
+	Status: ?
+	Wonder: ?
+		-Maybe if your phylactery is an item. . .
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Correspondence: ?
+		-It is very handy with a phylactery
+	Life (Affinity): 3
+	Prime: 1?
+		-Consecrating items might be handy with shapeshifting.
+
+Arete: 3 (1 +  2 for Freebie Points spent)
+Willpower: 5 (5)
+Quintessence:  (Avatar rating)
+Paradox:  (0)
+
+Focus:
+	-A paradigm: 
+	-A practice: 
+	-Instruments:
+		
+
+Merits & Flaws: (-5 Freebie Points)
+	"Immortal" (7 pt. Supernatural Merit, BoS pg. 76):
+		-You age 10% as fast as a normal human and will heal (at your usual rate) from any injury
+		 that doesn't completely destroy your body so long as your phylactery survives.
+	Phylactery (7 pt. Supernatural Flaw, BoS pg. 94):
+		- 
+		- TODO: Seed? Cat Familiar? Grove, with the unfortunate implications of a place?
+		- TODO: Who did this? Your not a powerful enough Mage to have done so. . .
+	Spark of Life (5 pt. Supernatural Merit, BoS pg. 78):
+		-You heal lethal as if it was bashing, aggravated as if it's one level less than it is, and
+		 any amount of bashing within an hour.
+		-Healing others with or without magick is -2 difficulty and they share your enhanced natural
+		 healing rate as long as they're in physical contact with you. Your touch also sooths minor
+		 pains, headaches, muscle spasms, and the like, within a minute or two.
+		-Your aura shines brightly, your Resonanace reflects your strong connection to primal life-
+		 force. . . and vampires find your blood delicious and twice as nourishing.
+
+Freebie points:  (15 - 5 for Merits & Flaws)
+	8	Arete 2 & 3
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		
