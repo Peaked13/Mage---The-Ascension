@@ -1,7 +1,7 @@
 Name: 
 Concept: 
 Affiliation: Syndicate
-Essence: 
+Essence: Dynamic?
 Nature: 
 Demeanor: 
 Ruleset: 
@@ -46,22 +46,18 @@ Abilities: (13/9/5, none above 3)
 		Media (Secondary): 1
 		Politics: 3
 
-Backgrounds: (7)
+Backgrounds: (7 + 9 for Freebie Points spent)
 	Contacts: 1
 		-1, mostly to roll for minor contacts?
 	Genius (Avatar): 3
 	Influence: 3
-	Requisitions: ???
-		-Neat, but a bit redundant with your wealth and power.
+		-The world of finance.
 	Resources: 6
-	Sanctum: ???
-		-2 just for coincidental magick? Yours pretty much always is anyways, though. . .
 	Status: 3
 		-Odd numbers are nice for the "halved (round up)" among allied affiliations.
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
-	Data (Correspondence): 3?
-	Mind: ??
+	Data (Correspondence): 3
 	Primal Utility (Prime, Affinity): 3
 
 Arete: 3 (1 + 2 for Freebie Points spent)
@@ -70,10 +66,21 @@ Quintessence:  (Avatar rating)
 Paradox:  (0)
 
 Focus:
-	-A paradigm: 
-	-A practice: 
+	-A paradigm: A Mechanistic Cosmos? Might is Right? Maybe with Tech Holds All Answers mixed in?
+	-A practice: Hypereconomics, perhaps with a bit of Hypertech mixed in.
 	-Instruments:
-		
+		Computer gear
+		Devices and machines?
+		Energy?
+		Formulae and math (Spreadsheets! Ledgers!)
+		Labs and gear?
+		Money and wealth
+		Management and Human Resources?
+		Numbers and numerology (.99! Social security numbers!)
+		Social domination?
+		Symbols?
+		Thought Forms
+		Voice and Vocalizations
 
 Merits & Flaws: ( Freebie Points)
 	Computer Aptitude (1 pt. Mental Merit, BoS pg. 43): ??
@@ -107,16 +114,16 @@ Merits & Flaws: ( Freebie Points)
 		  description of a 1 pt. Impediment.)
 	Overconfident (1 pt. Mental Flaw, BoS pg. 48):
 		-You wildly over estimate yourself. Even though you are really great, of course.
-	Poker Face (2 pt. Physical Merit, BoS pg. 38): ??
-		-
 
-Freebie points:  (15 +  for Merits & Flaws)
+Freebie points:  (15 + 2 for Merits & Flaws)
 	8	Arete 2 & 3
+	9	Background points
 
 Character Description and Background:
 	-Appearance:
 		-
-	- specializing in moving Primal Energy about
+	- specializing in moving Primal Energy (and money too) about
+	- very computerized finance
 
 Equipment (stuff to start with or obtain):
 	

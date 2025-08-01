@@ -61,9 +61,10 @@ Backgrounds: (7)
 	Resources: 
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
-	Entropy: 3
-	Forces: 3, to "erode or enhance energies with E3? Or just 2 for almost everything else you want?
+	Entropy: 2? 3?
+	Forces: 3, to "erode or enhance energies with E3? Or just 2 for almost everything else you want? Do I even _want_ whatever that means?
 	Life: ? 2 would be really nice if you can swing it, offering healing, and invisibiltity and flight with F2.
+	Prime: ? 2 would allow Quintessence-for-aggravated, and _creation_ of forces. . .
 
 Arete: 3 (1)
 Willpower:  (5)
@@ -77,10 +78,13 @@ Focus:
 		
 
 Merits & Flaws: ( Freebie Points)
-	8	Arete 2 & 3
-	
+	Hatred (3 pt. Mental Flaw, BoS pg. 52):
+		- vampires
+	Driving Goal (3 pt. Mental Flaw, BoS pg. 51):
+		- exterminating vampires entirely.
 
 Freebie points:  (15 +  for Merits & Flaws)
+	8	Arete 2 & 3
 	
 
 Character Description and Background:

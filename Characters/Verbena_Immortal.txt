@@ -7,53 +7,52 @@ Demeanor:
 Ruleset: 
 
 Attributes: (7/5/3 above initial free dot)
-	Physical: ()
-		Strength: 
-		Dexterity: 
-		Stamina: 
-	Social: ()
-		Charisma: 
-		Manipulation: 
-		Appearance: 
-	Mental: ()
-		Perception: 
-		Intelligence: 
-		Wits: 
+	Physical: (7)
+		Strength: 3
+		Dexterity: 3
+		Stamina: 4
+			Specialty: 
+	Social: (3)
+		Charisma: 2
+		Manipulation: 1
+		Appearance: 3
+	Mental: (5)
+		Perception: 3
+		Intelligence: 2
+		Wits: 3
 
 Abilities: (13/9/5, none above 3)
-	Talents: ()
-		
-	Skills: ()
-		
-	Knowledges: ()
-		
+	Talents: (13)
+		Alertness: 3
+		Animal Kinship (Secondary): 3
+		Athletics: 3
+		Brawl: 3
+		Intimidation: 1
+	Skills: (9)
+		Archery (Secondary): 1
+		Crafts: 1
+			Specialty: Leatherwork
+		Firearms: 1
+		Stealth: 3
+		Survival: 3
+	Knowledges: (5)
+		Esoterica: 3
+			Specialty: Herbalism
+		Medicine: 1
+		Poisons (Secondary): 1
 
 Backgrounds: (7)
-	Arcane: ?
-	Avatar: 
-	Cult: ?
-	Destiny: ?
-	Familiar: ?
-		-If your phylactery is a creature. . .
-	Mentor: ?
-	Node: ?
-		-If your phylactery is a place. . .
-	Patron: ?
-	Sanctum: ?
-		-If your phylactery is a place. . .
-	Status: ?
-	Wonder: ?
-		-Maybe if your phylactery is an item. . .
+	Avatar: 3
+	Destiny: 3
+	Patron: 1
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
-	Correspondence: ?
-		-It is very handy with a phylactery
+	Correspondence: 3
+		-It is very handy with a phylactery.
 	Life (Affinity): 3
-	Prime: 1?
-		-Consecrating items might be handy with shapeshifting.
 
 Arete: 3 (1 +  2 for Freebie Points spent)
-Willpower: 5 (5)
+Willpower: 7 (5 + 2 for Freebie Points spent)
 Quintessence:  (Avatar rating)
 Paradox:  (0)
 
@@ -69,8 +68,10 @@ Merits & Flaws: (-5 Freebie Points)
 		 that doesn't completely destroy your body so long as your phylactery survives.
 	Phylactery (7 pt. Supernatural Flaw, BoS pg. 94):
 		- 
-		- TODO: Seed? Cat Familiar? Grove, with the unfortunate implications of a place?
-		- TODO: Who did this? Your not a powerful enough Mage to have done so. . .
+		-It's a seed, often kept in a hand-fashioned leather pouch hanging as a necklace.
+		-You're not a powerful enough Mage to have done this. Instead, it was the work of your
+		 Patron, to ensure you survive to fulfill your eventual Destiny.
+			- TODO: Fill in more details!
 	Spark of Life (5 pt. Supernatural Merit, BoS pg. 78):
 		-You heal lethal as if it was bashing, aggravated as if it's one level less than it is, and
 		 any amount of bashing within an hour.
@@ -82,12 +83,13 @@ Merits & Flaws: (-5 Freebie Points)
 
 Freebie points:  (15 - 5 for Merits & Flaws)
 	8	Arete 2 & 3
-	
+	2	+2 Willpower
 
 Character Description and Background:
 	-Appearance:
 		-
-	-
+	- female?
+	- isolated wilderness/rural upbringing, perhaps by a mother from a bloodline associated with the Verbana?
 
 Equipment (stuff to start with or obtain):
 	
@@ -98,3 +100,6 @@ Rotes:
 Advancement:
 	-Tentative schedule:
 		
+	-Prime is eventually a big deal for you:
+		-Prime 1 to consecrate objects so they shapeshift with you.
+		-Prime 2 to ward or create stuff.
