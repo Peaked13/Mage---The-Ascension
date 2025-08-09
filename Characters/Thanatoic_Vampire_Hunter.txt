@@ -19,14 +19,14 @@ Attributes: (7/5/3 above initial free dot)
 		Appearance: 1
 	Mental: (5)
 		Perception: 3
-		Intelligence: 1
-		Wits: 3
+		Intelligence: 2
+		Wits: 2
 
 Abilities: (13/9/5, none above 3)
 	Talents: ()
 		Alertness: 
 		Athletics: 
-		Awarenemss: ?
+		Awareness: ?
 		Brawl: ?
 		Intimidation: ?
 		Streetwise: ?
@@ -40,6 +40,7 @@ Abilities: (13/9/5, none above 3)
 		Martial Arts: ?
 		Meditation: ?
 		Melee: 
+		Research: ?
 		Stealth: 
 		Survival: ?
 	Knowledges: ()
@@ -50,7 +51,8 @@ Abilities: (13/9/5, none above 3)
 		Investigation: 
 		Law: ?
 		Lore (Secondary):
-			Vampires, if Specialties are mandatory, or they're separate Abilities. Not too clear how that works in M20. . .
+			-Vampires, if Specialties are mandatory, or they're separate Abilities. Not too clear
+			 how that works in M20. . .
 		Medicine: ?
 
 Backgrounds: (7)
@@ -59,29 +61,42 @@ Backgrounds: (7)
 	Mentor: ?
 	Past Lives: ?
 	Resources: 
+	Spies: ?
+		-Actually, this is pretty great for you. Maybe even worth adjusting Attributes for. . .
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Entropy: 2? 3?
 	Forces: 3, to "erode or enhance energies with E3? Or just 2 for almost everything else you want? Do I even _want_ whatever that means?
 	Life: ? 2 would be really nice if you can swing it, offering healing, and invisibiltity and flight with F2.
+			Probably the easiest to drop, but 2 in all four would be nice if Freebie Points allow!
 	Prime: ? 2 would allow Quintessence-for-aggravated, and _creation_ of forces. . .
 
-Arete: 3 (1)
+Arete:  (1)
 Willpower:  (5)
 Quintessence:  (Avatar rating)
 Paradox:  (0)
 
 Focus:
-	-A paradigm: 
+	-A paradigm: Divine Order and Earthly Chaos
 	-A practice: 
 	-Instruments:
 		
 
 Merits & Flaws: ( Freebie Points)
-	Hatred (3 pt. Mental Flaw, BoS pg. 52):
-		- vampires
+	Addiction (1 pt. Physical Flaw, Core pg. 646): ?
+		- caffiene?
 	Driving Goal (3 pt. Mental Flaw, BoS pg. 51):
 		- exterminating vampires entirely.
+	Hatred (3 pt. Mental Flaw, BoS pg. 52):
+		- vampires
+	Impediment (1 pt. Physical Flaw, BoS pg 39): ?
+		- something minor from an old injury, tied to your low appearance?
+	Inner Knight (5 pt. Supernatural Merit, BoS pg. 77): ?
+		-
+	Iron Will (3 pt. Mental Merit, BoS pg. 45): ?
+		-
+	Light Sleeper (1 pt. Physical Merit, BoS pg. 36): ?
+		-.
 
 Freebie points:  (15 +  for Merits & Flaws)
 	8	Arete 2 & 3
@@ -89,7 +104,8 @@ Freebie points:  (15 +  for Merits & Flaws)
 
 Character Description and Background:
 	-Appearance:
-		- Scarred by whatever turned you so firmly against vampires?
+		- Scarred by whatever turned you so firmly against vampires? Vicissitude?
+	-Definitely some dose of Rorschach from Watchmen in who you are.
 	-
 
 Equipment (stuff to start with or obtain):
