@@ -1,0 +1,117 @@
+Name: 
+Concept: 
+Affiliation: Progenitors
+Essence: 
+Nature: 
+Demeanor: 
+Ruleset: 
+
+Attributes: (7/5/3 above initial free dot)
+	Physical: (5)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 4
+			Specialty: 
+	Social: (3)
+		Charisma: 3
+		Manipulation: 2
+		Appearance: 1
+	Mental: (7)
+		Perception: 2
+		Intelligence: 5
+			Specialty: s
+		Wits: 3
+
+Abilities: (13/9/5, none above 3)
+	Talents: (5)
+		Alertness: ?
+		Empathy: ?
+		Leadership: ?
+		Subterfuge: ?
+	Skills: ()
+		Biotech (Secondary): 
+		Crafts: ?
+		Drive: ?
+		Firearms: ?
+		Hypertech (Secondary): 
+		Meditation: ?
+		Research: 
+		Technology: 
+	Knowledges: ()
+		Academics: 
+		Computer: 
+		Investigation: ?
+		Medicine: 
+		Pharmacopoeia (Secondary): 
+		Politics: ?
+		Science: 
+			Specialty: Biology
+				-More specialtes? How _does_ Well-Skilled Craftsman work anyways?
+					-Ah, only after getting to 4. Probably not worthwhile anyways.
+
+Backgrounds: (7) 
+	Backup: ?
+	Construct (Chantry): Definitely. 2?
+	Genius (Avatar): 
+	Library: ?
+	Mentor: Definitely. 2?
+	Node: ?
+	Requisition: ?
+	Resources: 
+	Sanctum: 
+	Status: 1?
+
+Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
+	Life (Affinity): 3
+	Mind: 1? 3?
+		-1 gets empowerment of mental traits, sensing mood shifts / lies (in a way that would fit
+		 some kind of paradigm-compatible sensory enhancement, especially smell), and shielding.
+		-Further ranks get your useful but weirder feats. Most can still probably fit your paradigm
+		 as something involving sending/receiving pheramones or psychoactive chemicals.
+	Prime: ?
+		-3 would get enchanting life to deal/soak agg and temporary wonders.
+		-Less doesn't do much for your plans, save maybe creating life from nothing.
+
+Arete:  (1)
+Willpower:  (5)
+Quintessence:  (Avatar rating)
+Paradox:  (0)
+
+Focus:
+	-A paradigm: 
+	-A practice: 
+	-Instruments:
+		
+
+Merits & Flaws: ( Freebie Points)
+	Phylactery (7 pt. Supernatural Flaw, BoS pg. 94): ?
+		-You have a baseball-sized "tumor" on your neck and shoulder, very visible, and thus the
+		 reason for your low appearance.
+			-In reality, it's an experiment by your Mentor. He identified you before you Awakened
+			 as a possible student. . . and thus the subject he needed. What he did to you is the
+			 very source of your Genius, and your most important tool.
+			-Beneath the surface, it has tendrils spreading into different parts of your body,
+			 especially your brain.
+			-You use syringes to both extract things from it and inject things into it. It exudes
+			 stuff, adds things to your blood stream, develops strange sensory tissue, etc.
+			-Made from your own stem cells, from umbilical cord wisely saved by your parents, but
+			 now impossible to replace, all available having been used.
+	
+
+Freebie points:  (15 +  for Merits & Flaws)
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Rotes:
+	
+
+Advancement:
+	-Tentative schedule:
+		
