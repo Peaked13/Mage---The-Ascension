@@ -19,50 +19,46 @@ Attributes: (7/5/3 above initial free dot)
 	Mental: (7)
 		Perception: 2
 		Intelligence: 5
-			Specialty: s
+			Specialty: 
 		Wits: 3
 
 Abilities: (13/9/5, none above 3)
 	Talents: (5)
-		Alertness: ?
-		Empathy: ?
-		Leadership: ?
-		Subterfuge: ?
-	Skills: ()
-		Biotech (Secondary): 
-		Crafts: ?
-		Drive: ?
-		Firearms: ?
-		Hypertech (Secondary): 
-		Meditation: ?
-		Research: 
-		Technology: 
-	Knowledges: ()
-		Academics: 
-		Computer: 
-		Investigation: ?
-		Medicine: 
-		Pharmacopoeia (Secondary): 
-		Politics: ?
-		Science: 
+		Alertness: 1
+		Empathy: 1
+		Leadership: 2
+		Subterfuge: 1
+	Skills: (9)
+		Biotech (Secondary): 3
+		Firearms: 1
+		Hypertech (Secondary): 1
+		Research: 3
+		Technology: 1
+	Knowledges: (13)
+		Academics: 2
+		Computer: 1
+		Medicine: 3
+		Pharmacopoeia (Secondary): 3
+		Politics: 1
+		Science: 3
 			Specialty: Biology
 				-More specialtes? How _does_ Well-Skilled Craftsman work anyways?
 					-Ah, only after getting to 4. Probably not worthwhile anyways.
 
-Backgrounds: (7) 
-	Backup: ?
-	Construct (Chantry): Definitely. 2?
-	Genius (Avatar): 
-	Library: ?
-	Mentor: Definitely. 2?
-	Node: ?
-	Requisition: ?
-	Resources: 
-	Sanctum: 
-	Status: 1?
+Backgrounds: (7 + 11 for Freebie Points spent)
+	Backup: 2
+	Construct (Chantry): 2
+	Genius (Avatar): 3
+	Laboratory (Sanctum): 4
+	Library: 4
+	Mentor: 2
+	Status: 1
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Life (Affinity): 3
+	Matter: ?
+		-Chemical synthesis would be interesting, and _might_ involve this, though pretty easy to
+		 argue that a lot of what you would want can be accomplished with life alone.
 	Mind: 1? 3?
 		-1 gets empowerment of mental traits, sensing mood shifts / lies (in a way that would fit
 		 some kind of paradigm-compatible sensory enhancement, especially smell), and shielding.
@@ -72,7 +68,7 @@ Spheres: (6, with one designated your Affinity, none higher than Arete or perm. 
 		-3 would get enchanting life to deal/soak agg and temporary wonders.
 		-Less doesn't do much for your plans, save maybe creating life from nothing.
 
-Arete:  (1)
+Arete:  (1 + 2 for Freebie Points spent)
 Willpower:  (5)
 Quintessence:  (Avatar rating)
 Paradox:  (0)
@@ -84,7 +80,11 @@ Focus:
 		
 
 Merits & Flaws: ( Freebie Points)
-	Phylactery (7 pt. Supernatural Flaw, BoS pg. 94): ?
+	Research Grant (2 pt. Social Merit, BoS pg. 57):
+		-
+		-Your substitute for Resources.
+		-Tied up in the Construct you're involved in?
+	Phylactery (7 pt. Supernatural Flaw, BoS pg. 94):
 		-You have a baseball-sized "tumor" on your neck and shoulder, very visible, and thus the
 		 reason for your low appearance.
 			-In reality, it's an experiment by your Mentor. He identified you before you Awakened
@@ -92,14 +92,18 @@ Merits & Flaws: ( Freebie Points)
 			 very source of your Genius, and your most important tool.
 			-Beneath the surface, it has tendrils spreading into different parts of your body,
 			 especially your brain.
+			-Maybe some hard tech is involved to, electrical/computerized implants or the like.
 			-You use syringes to both extract things from it and inject things into it. It exudes
 			 stuff, adds things to your blood stream, develops strange sensory tissue, etc.
 			-Made from your own stem cells, from umbilical cord wisely saved by your parents, but
 			 now impossible to replace, all available having been used.
 	
 
-Freebie points:  (15 +  for Merits & Flaws)
-	
+Freebie points: 20 (15 + 5 for Merits & Flaws)
+	 8	Arete 2 & 3
+	11	11 Background points
+			1 more to spend. . .
+			Drop Status?
 
 Character Description and Background:
 	-Appearance:
