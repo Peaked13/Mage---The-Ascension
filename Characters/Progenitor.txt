@@ -1,9 +1,9 @@
 Name: 
 Concept: 
 Affiliation: Progenitors
-Essence: 
-Nature: 
-Demeanor: 
+Essence: Pattern
+Nature: Mad Scientist
+Demeanor: Visionary
 Ruleset: 
 
 Attributes: (7/5/3 above initial free dot)
@@ -19,7 +19,7 @@ Attributes: (7/5/3 above initial free dot)
 	Mental: (7)
 		Perception: 2
 		Intelligence: 5
-			Specialty: 
+			Specialty: Creative
 		Wits: 3
 
 Abilities: (13/9/5, none above 3)
@@ -45,28 +45,22 @@ Abilities: (13/9/5, none above 3)
 				-More specialtes? How _does_ Well-Skilled Craftsman work anyways?
 					-Ah, only after getting to 4. Probably not worthwhile anyways.
 
-Backgrounds: (7 + 11 for Freebie Points spent)
-	Backup: 2
+Backgrounds: 19 (7 + 12 for Freebie Points spent)
+	Backup: 1
 	Construct (Chantry): 2
 	Genius (Avatar): 3
-	Laboratory (Sanctum): 4
-	Library: 4
+	Laboratory (Sanctum, double cost): 4
+	Library: 2
 	Mentor: 2
 	Status: 1
 
 Spheres: (6, with one designated your Affinity, none higher than Arete or perm. Willpower)
 	Life (Affinity): 3
-	Matter: ?
-		-Chemical synthesis would be interesting, and _might_ involve this, though pretty easy to
-		 argue that a lot of what you would want can be accomplished with life alone.
-	Mind: 1? 3?
+	Mind: 3
 		-1 gets empowerment of mental traits, sensing mood shifts / lies (in a way that would fit
 		 some kind of paradigm-compatible sensory enhancement, especially smell), and shielding.
 		-Further ranks get your useful but weirder feats. Most can still probably fit your paradigm
-		 as something involving sending/receiving pheramones or psychoactive chemicals.
-	Prime: ?
-		-3 would get enchanting life to deal/soak agg and temporary wonders.
-		-Less doesn't do much for your plans, save maybe creating life from nothing.
+		 as something involving sending/receiving pheromones or psychoactive chemicals.
 
 Arete:  (1 + 2 for Freebie Points spent)
 Willpower:  (5)
@@ -101,9 +95,7 @@ Merits & Flaws: ( Freebie Points)
 
 Freebie points: 20 (15 + 5 for Merits & Flaws)
 	 8	Arete 2 & 3
-	11	11 Background points
-			1 more to spend. . .
-			Drop Status?
+	12	12 Background points
 
 Character Description and Background:
 	-Appearance:
@@ -119,3 +111,9 @@ Rotes:
 Advancement:
 	-Tentative schedule:
 		
+	-Matter?
+		-Chemical synthesis would be interesting, and _might_ involve this, though pretty easy to
+		 argue that a lot of what you would want can be accomplished with life alone.
+	-Prime?
+		-3 would get enchanting life to deal/soak agg and temporary wonders.
+		-Less doesn't do much for your plans, save maybe creating life from nothing.
